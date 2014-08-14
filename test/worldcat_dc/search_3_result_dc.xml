@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>34489</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Hirfī, Muḥammad ibn ʻAlī.</dc:creator>
+<dc:creator>هرفي، محمد بن علي.</dc:creator>
+<dc:date>2005</dc:date>
+<dc:date>2005</dc:date>
+<dc:description>al-Ṭabʻah 1.</dc:description>
+<dc:description>الطبعة 1.</dc:description>
+<dc:description>Includes bibliographical references (p. 195-198).</dc:description>
+<dc:description>Human rights; Arab countries; world politics; influences.</dc:description>
+<dc:format>199 p. ; 20 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">ara</dc:language>
+<dc:publisher>Maktabat Dār al-Maʻālim al-Thaqāfīyah</dc:publisher>
+<dc:publisher>مكتبة دار المعالم الثقافية،</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.loc.gov/catdir/toc/mena0901/2006307058.html</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCC">JC585 .H483 2005</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Human rights.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Human rights--Religious aspects--Islam.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">International relations--Moral and ethical aspects.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Arab countries--Foreign relations--United States.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">United States--Foreign relations--Arab countries.</dc:subject>
+<dc:title>Ḥuqūq al-insān bayna al-ʻArab wa-al-Amrīkān </dc:title>
+<dc:title>حقوق الإنسان بين العرب والأمريكان </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>IUL</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">060320</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2006307058</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>65167033</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>IUL</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Radanov, Stoĭcho.</dc:creator>
+<dc:date>2004</dc:date>
+<dc:format>597 p. ; 22 cm.</dc:format>
+<dc:identifier>9546497371</dc:identifier>
+<dc:identifier>9789546497376</dc:identifier>
+<dc:language>In Bulgarian.</dc:language>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">bul</dc:language>
+<dc:publisher>Siela</dc:publisher>
+<dc:subject>Bulgaria.</dc:subject>
+<dc:subject>Examination.  Diagnosis.</dc:subject>
+<dc:subject>Medicine.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Ethics, Clinical.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Ethical Theory.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">2006 M-347</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">WB 60</dc:subject>
+<dc:title>Medit︠s︡inska deontologii︠a︡ </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>EVIEW</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">061113</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>75970815</oclcterms:recordIdentifier>
+<oclcterms:languageOfCataloging xsi:type="http://purl.org/oclc/terms/iso639-2b">eng</oclcterms:languageOfCataloging>
+<oclcterms:recordTranscribingAgency>EVIEW</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Huang, Tingjian, 1045-1105.</dc:creator>
+<dc:date>1985</dc:date>
+<dc:description>Pei-ching hsin 1 pan.</dc:description>
+<dc:description>Reprint.</dc:description>
+<dc:format>[104] p. ; 19 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">chi</dc:language>
+<dc:publisher>Chung-hua shu chü</dc:publisher>
+<dc:relation>Chʻen, Lu. Shan yu wen.</dc:relation>
+<dc:relation>Yüan, Liao-fan, 1533-1606. Chʻi ssu chen chʻüan.</dc:relation>
+<dc:relation>Tʻu, Lung, 1542-1605. So-lo-kuan chʻing yen.</dc:relation>
+<dc:relation>Li, Ting, chü jen 1588. Ou tʻan.</dc:relation>
+<dc:relation>Shen, Tʻing. Nai su hsüan hsin yüeh fu.</dc:relation>
+<dc:relation>Shi da fu shi shi wu guan.</dc:relation>
+<dc:relation>Shan you wen.</dc:relation>
+<dc:relation>Qi si zhen quan.</dc:relation>
+<dc:relation>Suo-luo-guan qing yan.</dc:relation>
+<dc:relation>Nai su xuan xin yue fu.</dc:relation>
+<dc:relation>Tsʻung shu chi chʻeng chʻu pien ; 2986</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Health behavior--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Ethics--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animal welfare--China--Moral and ethical aspects.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Food habits--Social aspects--China.</dc:subject>
+<dc:title>Shih ta fu shih shih wu kuan </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>UAB</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">930505</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>70478427</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>UAB</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Wang, Yanguang.</dc:creator>
+<dc:creator>王延光.</dc:creator>
+<dc:date>2006</dc:date>
+<dc:date>2006</dc:date>
+<dc:description>Di 1 ban.</dc:description>
+<dc:description>第1版.</dc:description>
+<dc:description>Includes bibliographical references (p. 298-314).</dc:description>
+<dc:format>4, 6, 314 p. ; 21 cm.</dc:format>
+<dc:identifier>7801909798</dc:identifier>
+<dc:identifier>9787801909794</dc:identifier>
+<dc:language>Table of contents also in English.</dc:language>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">chi</dc:language>
+<dc:publisher>She hui ke xue wen xian chu ban she</dc:publisher>
+<dc:publisher>社会科学文献出版社</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCC">RA643.86.C6 W36 2006</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">AIDS (Disease)--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">AIDS (Disease)--China--Prevention.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social values--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Acquired Immunodeficiency Syndrome--prevention &amp; control--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Ethics, Medical--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Health Policy--China.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">2007 J-286</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">WC 503.6</dc:subject>
+<dc:title>Ai zi bing yu fang zheng ce yu lun li = A study on Chinese AIDS preventive policy and ethical issues </dc:title>
+<dc:title>艾滋病预防政策与伦理 = A study on Chinese AIDS preventive policy and ethical issues </dc:title>
+<dc:title>Study on Chinese AIDS preventive policy and ethical issues</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>DLC</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">080128</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2007350711</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>72806804</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>DLC</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Haškovcová, Helena, 1945-.</dc:creator>
+<dc:date>c2000</dc:date>
+<dc:description>1. vyd.</dc:description>
+<dc:description>Obsahuje bibliografii a rejstřík</dc:description>
+<dc:format>191 s. : barev. il. ; 23 cm</dc:format>
+<dc:identifier>8072620347 (váz.)</dc:identifier>
+<dc:identifier>9788072620340 (váz.)</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">cze</dc:language>
+<dc:publisher>Galén</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/UDC">(048.8)</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/UDC">616-036.88</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/UDC">616-036.887</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/UDC">616-093.75</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/UDC">614.253</dc:subject>
+<dc:title>Thanatologie : nauka o umírání a smrti </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>LGP</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">000519</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>45034421</oclcterms:recordIdentifier>
+<oclcterms:languageOfCataloging xsi:type="http://purl.org/oclc/terms/iso639-2b">cze</oclcterms:languageOfCataloging>
+<oclcterms:recordTranscribingAgency>LGP</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Elders, J. L. M.</dc:contributor>
+<dc:contributor>Rijksuniversiteit Limburg.</dc:contributor>
+<dc:date>1985</dc:date>
+<dc:description>At head of title: Rijksuniversiteit Limburg, Maastricht.</dc:description>
+<dc:description>Includes bibliographies.</dc:description>
+<dc:format>84 p. ; 22 cm.</dc:format>
+<dc:identifier>9023221052 </dc:identifier>
+<dc:identifier>9789023221050</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">dut</dc:language>
+<dc:publisher>Van Gorcum</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCC">R726 .E83 1985</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Euthanasia--Congresses.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Civil rights--Congresses.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Medical ethics--Congresses.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Civil rights--Netherlands--Congresses.</dc:subject>
+<dc:title>Euthanasie, recht en ethiek </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>DLC</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">850614</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   85166835 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>12944921</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>DLC</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Dickey, Nancy W.</dc:contributor>
+<dc:creator>American Medical Association. Council on Ethical and Judicial Affairs.</dc:creator>
+<dc:date>c1986</dc:date>
+<dc:description>Earlier eds. prepared by the Judicial Council.</dc:description>
+<dc:format>ix, 52 p. ; 26 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>The Association</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCC">R724 .A4 1986</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Ethics, Medical.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">W50 Am352c 1986</dc:subject>
+<dc:title>Current opinions of the Council on Ethical and Judicial Affairs of the American Medical Association--1986 : including the principles of medical ethics and rules of the Council on Ethical and Judicial Affairs </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>NDK</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">870430</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>15614832</oclcterms:recordIdentifier>
+<oclcterms:OCLC-MARCProcessingInformation xsi:type="http://purl.org/oclc/terms/oclcorg">OCL</oclcterms:OCLC-MARCProcessingInformation>
+<oclcterms:OCLC-MARCProcessingInformation xsi:type="http://purl.org/oclc/terms/transactioncode">11</oclcterms:OCLC-MARCProcessingInformation>
+<oclcterms:recordTranscribingAgency>NDK</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Blodgett, Cameron.</dc:contributor>
+<dc:contributor>Carter, Hodding.</dc:contributor>
+<dc:contributor>Fanning Pamela S.</dc:contributor>
+<dc:contributor>Patterson, Thomas.</dc:contributor>
+<dc:contributor>Salisbury, Harrison Evans, 1908-.</dc:contributor>
+<dc:contributor>Westmoreland, William C. (William Childs), 1914-2005.</dc:contributor>
+<dc:creator>Minnesota News Council.</dc:creator>
+<dc:description>The few administrative records include minutes, financial records (especially fund raising materials), annual reports, and correspondence. Of particular interest are files (including audio and video tapes) documenting the council's public service announcements program.</dc:description>
+<dc:description>The majority of the collection consists of mediation case files covering a wide range of complaints against the media including coverage of political matters, the abortion issue, municipal issues, and allegations of unfair media treatment by individuals and businesses.</dc:description>
+<dc:description>Mediation case files (1971-1990) and various administrative records (1970-1992) documenting the activities of a council established in 1970 by the Minnesota Newspaper Association to mediate disputes between the media and the public. The council consists of twelve media representatives and twelve individual citizens.</dc:description>
+<dc:format>5.5 cu. ft. (6 boxes).</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Finding aids: An inventory that provides additional information about this collection is available in the repository; filed in ALPHA notebooks under the heading: Minnesota News Council.</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.mnhs.org/library/findaids/00134.xml</dc:relation>
+<dc:rights>Quotation or publication, beyond the fair use provisions of the copyright law, of anything in or based on the restricted records requires written permission.</dc:rights>
+<dc:rights>Access to financial records less than ten years old requires written permission.</dc:rights>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Democratic-Farmer-Labor Party.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Minnesota Citizens Concerned for Life.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Minnesota Newspaper Association.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Minnesota Press Council.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Minnesotans Against the Downtown Dome.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Hubert H. Humphrey Metrodome (Minneapolis, Minn.).</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Abortion--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Broadcasting--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Freedom of the press--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Hmong (Asian people)--Minnesota--Saint Paul.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Homosexuality--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Journalism--Minnesota--Social aspects.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Mass media--Minnesota--Objectivity.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Mass media criticism--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Newspaper editors--Minnesota--Professional ethics.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Press councils--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Radio criticism--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Radio journalism--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sports facilities--Minnesota--Minneapolis.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Television and politics--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Television broadcasting of news--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Television criticism--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Journalistic ethics--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Water--Fluoridation--Minnesota--Brainerd.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Press and politics--Minnesota.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Brainerd (Minn.)</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Twin Cities Metropolitan Area (Minn.).</dc:subject>
+<dc:title>Minnesota News Council records, 1970-1992.</dc:title>
+<dc:type>Audio tapes.</dc:type>
+<dc:type>Video recordings.</dc:type>
+<dc:type>Collection</dc:type>
+<oclcterms:recordContentSource>MnHi-Ar</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">940712</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>313829157</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>MHS</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Buelow, Sarah.</dc:creator>
+<dc:date>2005</dc:date>
+<dc:date>2005</dc:date>
+<dc:description>A thesis presented in partial fulfillment of the requirements for the degree of Master of Arts in Clinical Psychology.</dc:description>
+<dc:description>Thesis (M.A. Clinical Psych.) -- Cardinal Stritch University -- Milwaukee, 2005.</dc:description>
+<dc:description>Bibliography: p.21-22 .</dc:description>
+<dc:description>This study examines unethical behavior in the workplace and how unethical activities influence coworkers perception of each other. The results indicated that a worker would be viewed negatively if unethical behavior was reported to the boss.</dc:description>
+<dc:format>vii, 37 p. : ill.</dc:format>
+<dc:format>Microfiche. 1 microfiche (46 fr.).</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Work environment.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Compliance.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Ethics.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Work ethic.</dc:subject>
+<dc:title>Ethics and compliance in the workplace</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>WKG</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">070422</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>123392379</oclcterms:recordIdentifier>
+<oclcterms:recordTranscribingAgency>WKG</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Cutter, Mary Ann Gardell.</dc:contributor>
+<dc:creator>Sassower, Raphael.</dc:creator>
+<dc:date>c2007</dc:date>
+<dc:description>Includes bibliographical references (p. [139]-150) and index.</dc:description>
+<dc:format>vi, 154 p. ; 23 cm.</dc:format>
+<dc:identifier>9780773533509 (bound)</dc:identifier>
+<dc:identifier>0773533508 (bound)</dc:identifier>
+<dc:identifier>9780773533516 (pbk.)</dc:identifier>
+<dc:identifier>0773533516 (pbk.)</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>McGill-Queen's University Press</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.loc.gov/catdir/toc/fy0804/2008273507.html</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/DDC">174.2</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCC">R724 .S27 2007</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Medical ethics--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Bioethics--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Medicine.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Ethics, Medical.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Bioethical Issues.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">2008 D-736</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/NLM">W 50 S252e 2007</dc:subject>
+<dc:title>Ethical choices in contemporary medicine : integrative bioethics </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordContentSource>NLM</oclcterms:recordContentSource>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">070802</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2008273507</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>165870827</oclcterms:recordIdentifier>
+<oclcterms:recordOCLCControlNumberCross-Reference xsi:type="http://purl.org/oclc/terms/oclcmarc019">154782667</oclcterms:recordOCLCControlNumberCross-Reference>
+<oclcterms:recordOCLCControlNumberCross-Reference xsi:type="http://purl.org/oclc/terms/oclcmarc019">154782671</oclcterms:recordOCLCControlNumberCross-Reference>
+<oclcterms:recordTranscribingAgency>NLM</oclcterms:recordTranscribingAgency>
+</oclcdcs>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>11</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>((((srw.su="medical" OR srw.su="medicine") AND srw.su="ethics") OR srw.su="bioethics" OR (srw.su="assisted" and srw.su="death") OR (srw.su="assisted" and srw.su="suicide") OR (srw.su="organ" and srw.su="trafficking") OR (srw.su="sale" and srw.su="organs" and srw.su="tissues") OR ((srw.su="ethics" OR srw.su="ethical") AND (srw.su="abortion" OR (srw.su="advance" and srw.su="directives") OR (srw.su="animal" and srw.su="industry") OR (srw.su="animal" and srw.su="research") OR (srw.su="animal" and srw.su="rights") OR (srw.su="animal" and srw.su="welfare") OR srw.su="biodiversity" OR (srw.su="biomedical" and srw.su="engineering") OR srw.su="biotechnology" OR srw.su="biopolitics" OR srw.su="brain" OR srw.su="cancer" OR srw.su="cloning" OR (srw.su="communicable" and srw.su="diseases") OR srw.su="dignity" OR srw.su="disabilities" OR (srw.su="disease" and srw.su="outbreaks") OR (srw.su="disease" and srw.su="transmission") OR srw.su="embryo" OR srw.su="embryonic" OR srw.su="environment" OR srw.su="epidemics" OR srw.su="eugenics" OR srw.su="euthanasia" OR (srw.su="evolutionary" and srw.su="ethics") OR (srw.su="genetic" AND srw.su="disorders") OR (srw.su="genetic" AND srw.su="engineering") OR srw.su="genetics" OR (srw.su="green" AND srw.su="movement") OR (srw.su="health" AND srw.su="policy") OR (srw.su="human" AND srw.su="abnormalities") OR (srw.su="human" AND srw.su="cloning") OR (srw.su="human" AND srw.su="experimentation") OR (srw.su="human" AND srw.su="genome") OR (srw.su="human" AND srw.su="reproductive" AND srw.su="technology") OR (srw.su="human" AND srw.su="rights") OR (srw.su="informed" AND srw.su="consent") OR (srw.su="medical" AND srw.su="care") OR (srw.su="medical" AND srw.su="genetics") OR (srw.su="medical" AND srw.su="innovations") OR (srw.su="medical" AND srw.su="laws" AND srw.su="legislation") OR (srw.su="medical" AND srw.su="philosophy") OR (srw.su="medical" AND srw.su="policy") OR (srw.su="medical" AND srw.su="technology") OR srw.su="medicine" OR srw.su="neuroscience" OR srw.su="nursing" OR (srw.su="patient" AND srw.su="advocacy") OR (srw.su="patient" AND srw.su="rights") OR (srw.su="pharmaceutical" AND srw.su="industry") OR (srw.su="Philosophy" AND srw.su="medical") OR srw.su="prenatal" OR (srw.su="public" AND srw.su="health") OR srw.su="relativism" OR srw.su="reproduction" OR (srw.su="reproductive" AND srw.su="health") OR (srw.su="resuscitation" AND srw.su="orders") OR (srw.su="Right" AND srw.su="life") OR (srw.su="stem" and srw.su="cell") OR (srw.su="technology" AND srw.su="medical") OR srw.su="tissue" OR srw.su="transplant" OR srw.su="transplantation" OR (srw.su="women" AND srw.su="health") OR (srw.su="world" AND srw.su="health")))) NOT srw.su="fiction") not srw.mt="juv"</query>
+<maximumRecords>10</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>qgLg3Q48QbEfzMSZHVrurEjx7GNsurp12HOhiEnUJq9o1dmk1UBxxa2DmyoiKA9DNEoRmCx7p9gLTE03</wskey>
+<servicelevel>full</servicelevel>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

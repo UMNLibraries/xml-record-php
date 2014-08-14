@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>34489</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a22000004a 4500</leader>
+    <controlfield tag="001">65167033</controlfield>
+    <controlfield tag="008">060320s2005    su       b    000 0 ara d</controlfield>
+    <controlfield tag="009">729</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2006307058</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">IUL</subfield>
+      <subfield code="c">IUL</subfield>
+      <subfield code="d">DLC</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="066">
+      <subfield code="c">(3</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+      <subfield code="a">lcode</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">ma-----</subfield>
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">JC585</subfield>
+      <subfield code="b">.H483 2005</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Hirfī, Muḥammad ibn ʻAlī.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">Ḥuqūq al-insān bayna al-ʻArab wa-al-Amrīkān /</subfield>
+      <subfield code="c">taʼlīf Muḥammad ibn ʻAlī al-Hirfī.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">al-Ṭabʻah 1.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="6">880-04</subfield>
+      <subfield code="a">al-Iḥsāʼ, al-Saʻūdīyah :</subfield>
+      <subfield code="b">Maktabat Dār al-Maʻālim al-Thaqāfīyah,</subfield>
+      <subfield code="c">2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">199 p. ;</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. 195-198).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Human rights; Arab countries; world politics; influences.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human rights.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human rights</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Islam.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Arab countries</subfield>
+      <subfield code="x">Foreign relations</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Foreign relations</subfield>
+      <subfield code="z">Arab countries.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">International relations</subfield>
+      <subfield code="x">Moral and ethical aspects.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Table of contents only</subfield>
+      <subfield code="u">http://www.loc.gov/catdir/toc/mena0901/2006307058.html</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="880">
+      <subfield code="6">100-01/(3/r</subfield>
+      <subfield code="a">هرفي، محمد بن علي.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="880">
+      <subfield code="6">245-02/(3/r</subfield>
+      <subfield code="a">حقوق الإنسان بين العرب والأمريكان /</subfield>
+      <subfield code="c">تأليف محمد بن علي الهرفي.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="880">
+      <subfield code="6">250-03/(3/r</subfield>
+      <subfield code="a">الطبعة 1.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="880">
+      <subfield code="6">260-04/(3/r</subfield>
+      <subfield code="a">الإحساء، السعودية :</subfield>
+      <subfield code="b">مكتبة دار المعالم الثقافية،</subfield>
+      <subfield code="c">2005.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">75970815</controlfield>
+    <controlfield tag="008">061113s2004    bu            000 0 bul d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">EVIEW</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">EVIEW</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">101291916</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9546497371</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789546497376</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">EVIEW</subfield>
+      <subfield code="b">761354B</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">101291916</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">2006 M-347</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">WB 60</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Radanov, Stoĭcho.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Medit︠s︡inska deontologii︠a︡ /</subfield>
+      <subfield code="c">Stoĭcho Radanov.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Sofii︠a︡ :</subfield>
+      <subfield code="b">Siela,</subfield>
+      <subfield code="c">2004.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">597 p. ;</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">In Bulgarian.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Bulgaria.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Examination.  Diagnosis.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Medicine.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Ethics, Clinical.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Ethical Theory.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">East View Information Services</subfield>
+      <subfield code="b">EAST</subfield>
+      <subfield code="n">761354B</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">70478427</controlfield>
+    <controlfield tag="008">930505r19851935cc            000 0 chi d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">UAB</subfield>
+      <subfield code="c">UAB</subfield>
+      <subfield code="d">OCLCG</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="3" tag="055">
+      <subfield code="a">AC149</subfield>
+      <subfield code="b">.T882 1985 v.2986</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Huang, Tingjian,</subfield>
+      <subfield code="d">1045-1105.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Shih ta fu shih shih wu kuan /</subfield>
+      <subfield code="c">Huang Tʻing-chien chu.  Shan yu wen / Chʻen Lu pien.  Chʻi ssu chen chʻüan / Yüan Huang pien. So-lo-kuan chʻing yen : cheng hsü / Tʻu Lung chu.  Ou tʻan / Li Ting chu.  Nai su hsüan hsin yüeh fu / Shen Tʻing chu.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">Pei-ching hsin 1 pan.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Pei-ching :</subfield>
+      <subfield code="b">Chung-hua shu chü,</subfield>
+      <subfield code="c">1985.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[104] p. ;</subfield>
+      <subfield code="c">19 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="440">
+      <subfield code="a">Tsʻung shu chi chʻeng chʻu pien ;</subfield>
+      <subfield code="v">2986</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reprint.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Health behavior</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Ethics</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Animal welfare</subfield>
+      <subfield code="z">China</subfield>
+      <subfield code="x">Moral and ethical aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Food habits</subfield>
+      <subfield code="x">Social aspects</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Chʻen, Lu.</subfield>
+      <subfield code="t">Shan yu wen.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Yüan, Liao-fan,</subfield>
+      <subfield code="d">1533-1606.</subfield>
+      <subfield code="t">Chʻi ssu chen chʻüan.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Tʻu, Lung,</subfield>
+      <subfield code="d">1542-1605.</subfield>
+      <subfield code="t">So-lo-kuan chʻing yen.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Li, Ting,</subfield>
+      <subfield code="d">chü jen 1588.</subfield>
+      <subfield code="t">Ou tʻan.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Shen, Tʻing.</subfield>
+      <subfield code="t">Nai su hsüan hsin yüeh fu.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="740">
+      <subfield code="a">Shi da fu shi shi wu guan.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="740">
+      <subfield code="a">Shan you wen.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="740">
+      <subfield code="a">Qi si zhen quan.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="740">
+      <subfield code="a">Suo-luo-guan qing yan.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="740">
+      <subfield code="a">Nai su xuan xin yue fu.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">72806804</controlfield>
+    <controlfield tag="008">080128s2006    cc       b    000 0 chi  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2007350711</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">HLS</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="066">
+      <subfield code="c">$1</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">101462159</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">7801909798</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9787801909794</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">101462159</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000040472443</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="041">
+      <subfield code="a">chi</subfield>
+      <subfield code="f">eng</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">a-cc---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">RA643.86.C6</subfield>
+      <subfield code="b">W36 2006</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">2007 J-286</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">WC 503.6</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="6">880-01</subfield>
+      <subfield code="a">Wang, Yanguang.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="6">880-02</subfield>
+      <subfield code="a">Ai zi bing yu fang zheng ce yu lun li =</subfield>
+      <subfield code="b">A study on Chinese AIDS preventive policy and ethical issues /</subfield>
+      <subfield code="c">Wang Yanguang zhu.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="1" tag="246">
+      <subfield code="a">Study on Chinese AIDS preventive policy and ethical issues</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="6">880-03</subfield>
+      <subfield code="a">Di 1 ban.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="6">880-04</subfield>
+      <subfield code="a">Beijing Shi :</subfield>
+      <subfield code="b">She hui ke xue wen xian chu ban she,</subfield>
+      <subfield code="c">2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4, 6, 314 p. ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">Table of contents also in English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. 298-314).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">AIDS (Disease)</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">AIDS (Disease)</subfield>
+      <subfield code="z">China</subfield>
+      <subfield code="x">Prevention.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Social values</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Acquired Immunodeficiency Syndrome</subfield>
+      <subfield code="x">prevention &amp; control</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Ethics, Medical</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Health Policy</subfield>
+      <subfield code="z">China.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="880">
+      <subfield code="6">100-01/$1</subfield>
+      <subfield code="a">王延光.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="880">
+      <subfield code="6">245-02/$1</subfield>
+      <subfield code="a">艾滋病预防政策与伦理 =</subfield>
+      <subfield code="b">A study on Chinese AIDS preventive policy and ethical issues /</subfield>
+      <subfield code="c">王延光著.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="880">
+      <subfield code="6">250-03/$1</subfield>
+      <subfield code="a">第1版.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="880">
+      <subfield code="6">260-04/$1</subfield>
+      <subfield code="a">北京市 :</subfield>
+      <subfield code="b">社会科学文献出版社,</subfield>
+      <subfield code="c">2006.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000nam a2200000Ma 4500</leader>
+    <controlfield tag="001">45034421</controlfield>
+    <controlfield tag="008">000519s2000    xr a   e      001 0 cze d</controlfield>
+    <controlfield tag="009">20497</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">LGP</subfield>
+      <subfield code="b">cze</subfield>
+      <subfield code="c">LGP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">8072620347 (váz.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9788072620340 (váz.)</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">LGP</subfield>
+      <subfield code="b">cpk20000964767</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="072">
+      <subfield code="a">61</subfield>
+      <subfield code="x">Lékařské vědy. Lékařství</subfield>
+      <subfield code="2">Konspekt</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">(048.8)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">616-036.88</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">616-036.887</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">616-093.75</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">614.253</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Haškovcová, Helena,</subfield>
+      <subfield code="d">1945-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Thanatologie :</subfield>
+      <subfield code="b">nauka o umírání a smrti /</subfield>
+      <subfield code="c">Helena Haškovcová</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1. vyd.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Praha :</subfield>
+      <subfield code="b">Galén,</subfield>
+      <subfield code="c">c2000</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">191 s. :</subfield>
+      <subfield code="b">barev. il. ;</subfield>
+      <subfield code="c">23 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Obsahuje bibliografii a rejstřík</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Paliativní péče</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Lékařská etika</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Tanatologie</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Smrt</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Umírání</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Medical ethics</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Thanatology</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Monografie</subfield>
+      <subfield code="2">czenas</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">12944921</controlfield>
+    <controlfield tag="008">850614s1985    ne       b    100 0 dut  </controlfield>
+    <controlfield tag="009">466</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   85166835 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">NLGGC</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="016">
+      <subfield code="a">B8516326</subfield>
+      <subfield code="2">bccb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9023221052 :</subfield>
+      <subfield code="c">fl 19.00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789023221050</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">850985056</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">199841993</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">e-ne---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="050">
+      <subfield code="a">R726</subfield>
+      <subfield code="b">.E83 1985</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">08.38</subfield>
+      <subfield code="2">bcl</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">86.42</subfield>
+      <subfield code="2">bcl</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">44.02</subfield>
+      <subfield code="2">bcl</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Euthanasie, recht en ethiek /</subfield>
+      <subfield code="c">J. Elders ... [et al.].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Assen :</subfield>
+      <subfield code="b">Van Gorcum,</subfield>
+      <subfield code="c">1985.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">84 p. ;</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">At head of title: Rijksuniversiteit Limburg, Maastricht.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographies.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Euthanasia</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Civil rights</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Medical ethics</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Civil rights</subfield>
+      <subfield code="z">Netherlands</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Euthanasie.</subfield>
+      <subfield code="2">gtt</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Juridische aspecten.</subfield>
+      <subfield code="2">gtt</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Ethische aspecten.</subfield>
+      <subfield code="2">gtt</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Elders, J. L. M.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Rijksuniversiteit Limburg.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">15614832</controlfield>
+    <controlfield tag="008">870430s1986    ilu           000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NDK</subfield>
+      <subfield code="c">NDK</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">R724</subfield>
+      <subfield code="b">.A4 1986</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="096">
+      <subfield code="a">W50 Am352c 1986</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">American Medical Association.</subfield>
+      <subfield code="b">Council on Ethical and Judicial Affairs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Current opinions of the Council on Ethical and Judicial Affairs of the American Medical Association--1986 :</subfield>
+      <subfield code="b">including the principles of medical ethics and rules of the Council on Ethical and Judicial Affairs /</subfield>
+      <subfield code="c">prepared by the Council on Ethical and Judicial Affairs ; Nancy W. Dickey, Chairman ... [et al.].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Chicago, Ill. :</subfield>
+      <subfield code="b">The Association,</subfield>
+      <subfield code="c">c1986.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">ix, 52 p. ;</subfield>
+      <subfield code="c">26 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Earlier eds. prepared by the Judicial Council.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Ethics, Medical.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Dickey, Nancy W.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="994">
+      <subfield code="a">11</subfield>
+      <subfield code="b">OCL</subfield>
+      <subfield code="i">04286</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cpc a2200000Ma 4500</leader>
+    <controlfield tag="001">313829157</controlfield>
+    <controlfield tag="008">940712i19701992xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">MnHi-Ar</subfield>
+      <subfield code="e">appm</subfield>
+      <subfield code="c">MHS</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-mn</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">Minnesota News Council.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Minnesota News Council records,</subfield>
+      <subfield code="f">1970-1992.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5.5 cu. ft. (6 boxes).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="a">Access to financial records less than ten years old requires written permission.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Mediation case files (1971-1990) and various administrative records (1970-1992) documenting the activities of a council established in 1970 by the Minnesota Newspaper Association to mediate disputes between the media and the public. The council consists of twelve media representatives and twelve individual citizens.</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="520">
+      <subfield code="b">The few administrative records include minutes, financial records (especially fund raising materials), annual reports, and correspondence. Of particular interest are files (including audio and video tapes) documenting the council's public service announcements program.</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="520">
+      <subfield code="b">The majority of the collection consists of mediation case files covering a wide range of complaints against the media including coverage of political matters, the abortion issue, municipal issues, and allegations of unfair media treatment by individuals and businesses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Quotation or publication, beyond the fair use provisions of the copyright law, of anything in or based on the restricted records requires written permission.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="555">
+      <subfield code="a">An inventory that provides additional information about this collection is available in the repository; filed in ALPHA notebooks under the heading: Minnesota News Council.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Democratic-Farmer-Labor Party.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Minnesota Citizens Concerned for Life.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Minnesota Newspaper Association.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Minnesota Press Council.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Minnesotans Against the Downtown Dome.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Hubert H. Humphrey Metrodome (Minneapolis, Minn.).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Abortion</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Broadcasting</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Freedom of the press</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hmong (Asian people)</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="z">Saint Paul.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Homosexuality</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Journalism</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="x">Social aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Mass media</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="x">Objectivity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Mass media criticism</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Newspaper editors</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="x">Professional ethics.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Press councils</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Radio criticism</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Radio journalism</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sports facilities</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="z">Minneapolis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Television and politics</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Television broadcasting of news</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Television criticism</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Journalistic ethics</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water</subfield>
+      <subfield code="x">Fluoridation</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="z">Brainerd.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Press and politics</subfield>
+      <subfield code="z">Minnesota.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Brainerd (Minn.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Twin Cities Metropolitan Area (Minn.).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Audio tapes.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Video recordings.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Blodgett, Cameron.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Carter, Hodding.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Fanning Pamela S.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Patterson, Thomas.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Salisbury, Harrison Evans,</subfield>
+      <subfield code="d">1908-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Westmoreland, William C.</subfield>
+      <subfield code="q">(William Childs),</subfield>
+      <subfield code="d">1914-2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="851">
+      <subfield code="a">Minnesota Historical Society,</subfield>
+      <subfield code="c">St. Paul, MN.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="851">
+      <subfield code="a">Location:</subfield>
+      <subfield code="e">143.B.10.6F-143.B.10.11B</subfield>
+      <subfield code="3">(6 boxes)</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">An electronic version of the inventory for this collection is available at</subfield>
+      <subfield code="u">http://www.mnhs.org/library/findaids/00134.xml</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000nam a2200000Ka 4500</leader>
+    <controlfield tag="001">123392379</controlfield>
+    <controlfield tag="008">070422s2005    wiu           000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">WKG</subfield>
+      <subfield code="c">WKG</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Buelow, Sarah.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Ethics and compliance in the workplace</subfield>
+      <subfield code="h">[microform] /</subfield>
+      <subfield code="c">Sarah Buelow.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="c">2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">vii, 37 p. :</subfield>
+      <subfield code="b">ill.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">A thesis presented in partial fulfillment of the requirements for the degree of Master of Arts in Clinical Psychology.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="502">
+      <subfield code="a">Thesis (M.A. Clinical Psych.) -- Cardinal Stritch University -- Milwaukee, 2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Bibliography: p.21-22 .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">This study examines unethical behavior in the workplace and how unethical activities influence coworkers perception of each other. The results indicated that a worker would be viewed negatively if unethical behavior was reported to the boss.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Microfiche.</subfield>
+      <subfield code="b">Milwaukee :</subfield>
+      <subfield code="c">Integrated Imaging, Inc.,</subfield>
+      <subfield code="d">2005.</subfield>
+      <subfield code="e">1 microfiche (46 fr.).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Work environment.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Compliance.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Ethics.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Work ethic.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000nam a2200000 a 4500</leader>
+    <controlfield tag="001">165870827</controlfield>
+    <controlfield tag="008">070802s2007    quc      b    001 0 eng  </controlfield>
+    <controlfield tag="009">161</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2008273507</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NLM</subfield>
+      <subfield code="c">NLM</subfield>
+      <subfield code="d">NLC</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">C#P</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">VP@</subfield>
+      <subfield code="d">DLC</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">101467645</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="016">
+      <subfield code="a">2007904929X</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">154782667</subfield>
+      <subfield code="a">154782671</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780773533509 (bound)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0773533508 (bound)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780773533516 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0773533516 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">101467645</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLC</subfield>
+      <subfield code="b">2007904929X</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">11612840</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000043064889</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">nlmcopyc</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">R724</subfield>
+      <subfield code="b">.S27 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="1" tag="055">
+      <subfield code="a">R724</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="055">
+      <subfield code="a">R724</subfield>
+      <subfield code="b">S27 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="055">
+      <subfield code="a">R724</subfield>
+      <subfield code="b">S28 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">2008 D-736</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">W 50</subfield>
+      <subfield code="b">S252e 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">174.2</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Sassower, Raphael.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Ethical choices in contemporary medicine :</subfield>
+      <subfield code="b">integrative bioethics /</subfield>
+      <subfield code="c">Raphael Sassower and Mary Ann Cutter.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Montreal :</subfield>
+      <subfield code="b">McGill-Queen's University Press,</subfield>
+      <subfield code="c">c2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">vi, 154 p. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. [139]-150) and index.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Ethics, Medical.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Bioethical Issues.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Medical ethics</subfield>
+      <subfield code="x">Philosophy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bioethics</subfield>
+      <subfield code="x">Philosophy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Medicine.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Éthique médicale</subfield>
+      <subfield code="x">Philosophie.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Bioéthique</subfield>
+      <subfield code="x">Philosophie.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Médecine.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Cutter, Mary Ann Gardell.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Table of contents</subfield>
+      <subfield code="u">http://www.loc.gov/catdir/toc/fy0804/2008273507.html</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">BK0007284722</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">22.95</subfield>
+      <subfield code="d">22.95</subfield>
+      <subfield code="i">0773533516</subfield>
+      <subfield code="n">0007284723</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">80.00</subfield>
+      <subfield code="d">80.00</subfield>
+      <subfield code="i">0773533508</subfield>
+      <subfield code="n">0007284722</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2570217</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">181898943</controlfield>
+    <controlfield tag="007">cr cnu||||||||</controlfield>
+    <controlfield tag="008">021022s2002    nyu      b    000 0 eng  </controlfield>
+    <controlfield tag="009">161</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NLM</subfield>
+      <subfield code="c">NLM</subfield>
+      <subfield code="d">DBI</subfield>
+      <subfield code="d">LEO</subfield>
+      <subfield code="d">SLU</subfield>
+      <subfield code="d">F@N</subfield>
+      <subfield code="d">OMP</subfield>
+      <subfield code="d">WSL</subfield>
+      <subfield code="d">WCM</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">LVB</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">GXR</subfield>
+      <subfield code="d">LET</subfield>
+      <subfield code="d">AU@</subfield>
+      <subfield code="d">SINLB</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">101166346</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">50821979</subfield>
+      <subfield code="a">183346027</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9781586481766</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">1586481762</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">101166346</subfield>
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">101166346</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">YDXCP</subfield>
+      <subfield code="b">1903302</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">7737609</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000024633240</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">nlmcopyc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">QH442.2</subfield>
+      <subfield code="b">.P73 2002</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">2003 B-298</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">QH 442.2</subfield>
+      <subfield code="b">P933h 2002</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0851-J-16</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">176</subfield>
+      <subfield code="2">21</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PR 43.8:B 52/2002023924</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PR 43.8:B 52/2004020888</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">President's Council on Bioethics (U.S.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Human cloning and human dignity :</subfield>
+      <subfield code="b">the report of the President's Council on Bioethics /</subfield>
+      <subfield code="c">with a foreword by Leon R. Kass, chairman.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="246">
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="246">
+      <subfield code="a">Report of the President's Council on Bioethics</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">PublicAffairs,</subfield>
+      <subfield code="c">c2002.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">lxii, 350 p. ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="440">
+      <subfield code="a">PublicAffairs reports</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Glossary of terms"--P. 267-270.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. 271-277).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available online.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Letter of transmittal to the President -- Members of the President's Council on Bioethics -- Council staff and consultants -- Preface -- Executive summary -- 1. The meaning of human cloning : an overview -- 2. Historical aspects of cloning -- 3. On terminology -- 4. Scientific background -- 5. The ethics of cloning-to-produce-children -- 6. The ethics of cloning-for-biomedical-research -- 7. Public poilcy options -- 8. Policy recommendations -- Appendix : personal statements.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Few avenues of scientific inquiry raise more thorny ethical questions than the cloning of human beings, a radical way to control our DNA. In August 2001, in conjunction with his decision to permit limited federal funding for stem-cell research, President George W. Bush created the President's Council on Bioethics to address the ethical ramifications of biomedical innovation. Over the past year the Council, whose members comprise a team of leading scientists, doctors, ethicists, lawyers, humanists, and theologians, has discussed and debated the pros and cons of cloning, whether in the service of producing children or as an aid to scientific research. The questions the Council members confronted do not have easy answers, and they did not seek to hide their differences behind an artificial consensus. Rather, the Council decided to allow each side to make its own best case, so that the American people can think about and debate these questions, which go to the heart of what it means to be a human being. Just as the dawn of the atomic age created ethical dilemmas for the United States, cloning presents us with similar quandaries that we are sure to wrestle with for decades to come.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Cloning, Organism</subfield>
+      <subfield code="x">ethics</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Policy Making</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650"> 
+      <subfield code="a">Terminology as Topic</subfield>
+      <subfield code="z">United States.</subfield>
+      <subfield code="a">Terminology as Topic</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human cloning</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human cloning</subfield>
+      <subfield code="x">Government policy</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bioethics.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Clonage humain</subfield>
+      <subfield code="x">Aspect moral</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Clonage humain</subfield>
+      <subfield code="x">Politique gouvernementale</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Bioéthique</subfield>
+      <subfield code="x">Droit.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Human cloning</subfield>
+      <subfield code="x">Ethical aspects.</subfield>
+      <subfield code="2">sears</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Human cloning</subfield>
+      <subfield code="x">Government policy.</subfield>
+      <subfield code="2">sears</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS21820</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.bioethics.gov/reports/cloningreport/fullreport.html</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">bl2003009522</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">1903302</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">17.95</subfield>
+      <subfield code="d">13.46</subfield>
+      <subfield code="i">1586481762</subfield>
+      <subfield code="n">0004068444</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">37175264</controlfield>
+    <controlfield tag="007">cr cnu||||||||</controlfield>
+    <controlfield tag="008">970623s1997    mdua     b   f000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   97172800 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">InNd-L</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">XND</subfield>
+      <subfield code="d">XBM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">BTCTA</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">9713013</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">37241586</subfield>
+      <subfield code="a">40233981</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">9713013</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">4836550</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000013424765</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">QH442.2</subfield>
+      <subfield code="b">.U56 1997</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">1997 H-533</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">QH 442.2</subfield>
+      <subfield code="b">U58 1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0766-C-28</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0766-C-28 (online)</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">174/.957</subfield>
+      <subfield code="2">21</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:B 52/C 62</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PrEx 1.19:B 52/C 62</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="110">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">National Bioethics Advisory Commission.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Cloning human beings :</subfield>
+      <subfield code="b">report and recommendations of the National Bioethics Advisory Commission.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Rockville, MD :</subfield>
+      <subfield code="b">U.S. National Bioethics Advisory Commission,</subfield>
+      <subfield code="c">[1997]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 v. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"June 1997."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">v. I. [no distinct title] -- v. II.  Commissioned papers.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available via the Internet from Bioethics.gov web site. Address as of 9/21/06: http://www.bioethics.gov/reports/past_commissions/nbac_cloning.pdf (Vol.1); http://www.bioethics.gov/reports/past_commissions/nbac_cloning2.pdf (Vol.2); current access available via PURLs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Cloning.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Cloning</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Genetic engineering.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bioethics.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Cloning, Molecular</subfield>
+      <subfield code="v">Legislation.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Bioethics</subfield>
+      <subfield code="v">Legislation.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Cell Nucleus</subfield>
+      <subfield code="x">transplantation</subfield>
+      <subfield code="v">Legislation.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Genetic Engineering</subfield>
+      <subfield code="v">Legislation.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.georgetown.edu/research/nrcbl/nbac/pubs/cloning1/cloning.pdf</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 1</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS439</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 2</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS74401</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">97172800</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+
+</records>
+<nextRecordPosition>13</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>((((srw.su="medical" OR srw.su="medicine") AND srw.su="ethics") OR srw.su="bioethics" OR (srw.su="assisted" and srw.su="death") OR (srw.su="assisted" and srw.su="suicide") OR (srw.su="organ" and srw.su="trafficking") OR (srw.su="sale" and srw.su="organs" and srw.su="tissues") OR ((srw.su="ethics" OR srw.su="ethical") AND (srw.su="abortion" OR (srw.su="advance" and srw.su="directives") OR (srw.su="animal" and srw.su="industry") OR (srw.su="animal" and srw.su="research") OR (srw.su="animal" and srw.su="rights") OR (srw.su="animal" and srw.su="welfare") OR srw.su="biodiversity" OR (srw.su="biomedical" and srw.su="engineering") OR srw.su="biotechnology" OR srw.su="biopolitics" OR srw.su="brain" OR srw.su="cancer" OR srw.su="cloning" OR (srw.su="communicable" and srw.su="diseases") OR srw.su="dignity" OR srw.su="disabilities" OR (srw.su="disease" and srw.su="outbreaks") OR (srw.su="disease" and srw.su="transmission") OR srw.su="embryo" OR srw.su="embryonic" OR srw.su="environment" OR srw.su="epidemics" OR srw.su="eugenics" OR srw.su="euthanasia" OR (srw.su="evolutionary" and srw.su="ethics") OR (srw.su="genetic" AND srw.su="disorders") OR (srw.su="genetic" AND srw.su="engineering") OR srw.su="genetics" OR (srw.su="green" AND srw.su="movement") OR (srw.su="health" AND srw.su="policy") OR (srw.su="human" AND srw.su="abnormalities") OR (srw.su="human" AND srw.su="cloning") OR (srw.su="human" AND srw.su="experimentation") OR (srw.su="human" AND srw.su="genome") OR (srw.su="human" AND srw.su="reproductive" AND srw.su="technology") OR (srw.su="human" AND srw.su="rights") OR (srw.su="informed" AND srw.su="consent") OR (srw.su="medical" AND srw.su="care") OR (srw.su="medical" AND srw.su="genetics") OR (srw.su="medical" AND srw.su="innovations") OR (srw.su="medical" AND srw.su="laws" AND srw.su="legislation") OR (srw.su="medical" AND srw.su="philosophy") OR (srw.su="medical" AND srw.su="policy") OR (srw.su="medical" AND srw.su="technology") OR srw.su="medicine" OR srw.su="neuroscience" OR srw.su="nursing" OR (srw.su="patient" AND srw.su="advocacy") OR (srw.su="patient" AND srw.su="rights") OR (srw.su="pharmaceutical" AND srw.su="industry") OR (srw.su="Philosophy" AND srw.su="medical") OR srw.su="prenatal" OR (srw.su="public" AND srw.su="health") OR srw.su="relativism" OR srw.su="reproduction" OR (srw.su="reproductive" AND srw.su="health") OR (srw.su="resuscitation" AND srw.su="orders") OR (srw.su="Right" AND srw.su="life") OR (srw.su="stem" and srw.su="cell") OR (srw.su="technology" AND srw.su="medical") OR srw.su="tissue" OR srw.su="transplant" OR srw.su="transplantation" OR (srw.su="women" AND srw.su="health") OR (srw.su="world" AND srw.su="health")))) NOT srw.su="fiction") not srw.mt="juv"</query>
+<maximumRecords>12</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>qgLg3Q48QbEfzMSZHVrurEjx7GNsurp12HOhiEnUJq9o1dmk1UBxxa2DmyoiKA9DNEoRmCx7p9gLTE03</wskey>
+<servicelevel>full</servicelevel>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

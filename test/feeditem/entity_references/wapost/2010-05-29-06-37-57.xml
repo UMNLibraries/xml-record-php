@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss version="2.0"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:media="http://search.yahoo.com/mrss/" xmlns:pheedo="http://www.pheedo.com/namespace/pheedo">
+	<channel>
+		<title><![CDATA[Wash Post Health]]></title>
+		<!-- title><![CDATA[Wash Post Health News, Healthcare Policy, Nutrition, Fitness, Diet - Washington Post Health]]></title -->
+		<link><![CDATA[http://www.washingtonpost.com/wp-dyn/content/health/index.html?wprss=rss_health]]></link>
+		<description><![CDATA[The Washington Post Health section provides coverage and analysis of health,healthcare,nutrition and fitness news,trends and policy. Post Health includes discussions and blogs about major health issues.]]></description>
+		<language>en-us</language>
+		<ttl>30</ttl>
+		<image>
+			<title>washingtonpost.com</title>
+			<width>140</width>
+			<height>20</height>
+			<link>http://www.washingtonpost.com?wprss=rss</link>
+			<url>http://media3.washingtonpost.com/wp-srv/hp/image/wp_web.gif</url>
+		</image>
+		<!-- do: 1 -->
+		<item>
+			<title><![CDATA[ In "America and the Pill," Elaine Tyler May traces the pill's influence on women ]]></title>
+			<link>http://feeds.washingtonpost.com/click.phdo?i=aa40cd098fded1218baece7a138c6cf4</link>
+			<pheedo:origLink>http://www.washingtonpost.com/wp-dyn/content/article/2010/05/28/AR2010052801861.html?wprss=rss_health</pheedo:origLink>
+			<guid isPermaLink="false">http://www.washingtonpost.com/wp-dyn/content/article/2010/05/28/AR2010052801861.html?wprss=rss_health</guid>
+			<pubDate>Sun, 30 May 2010 00:00:00 EDT</pubDate>
+			<description><![CDATA[
+Sanger is one of the heroes of "America and the Pill," a new cultural history of the birth control pill written by Elaine Tyler May, a professor of American studies and history at the University of Minnesota.
+<br clear="both" style="clear: both;"/>
+<br clear="both" style="clear: both;"/>
+<a href="http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=1"><img alt="" style="border: 0;" border="0" src="http://ads.pheedo.com/img.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=1"/></a>
+<img alt="" height="0" width="0" border="0" style="display:none" src="http://a.triggit.com/px?u=pheedo&rtv=Health&rtv=p29853&rtv=f31139"/><img alt="" height="0" width="0" border="0" style="display:none" src="http://pixel.quantserve.com/pixel/p-8bUhLiluj0fAw.gif?labels=pub.29853.rss.Health.31139,cat.Health.rss"/><br clear="all"/>
+<img src="http://ads.pheedo.com/img.phdo?kw=" align="absmiddle" /> 
+<a href='http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=64&kw=United+States'>United States</a> - <a href='http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=64&kw=Birth+control'>Birth control</a> - <a href='http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=64&kw=Health'>Health</a> - <a href='http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=64&kw=Combined+oral+contraceptive+pill'>Combined oral contraceptive pill</a> - <a href='http://ads.pheedo.com/click.phdo?s=aa40cd098fded1218baece7a138c6cf4&p=64&kw=Elaine+Tyler+May'>Elaine Tyler May</a>]]></description>
+			<dc:creator>Post</dc:creator>
+			<category><![CDATA[In]]></category>
+			<category><![CDATA["America]]></category>
+			<category><![CDATA[and]]></category>
+			<category><![CDATA[the]]></category>
+			<category><![CDATA[Pill,"]]></category>
+			<category><![CDATA[Elaine]]></category>
+			<category><![CDATA[Tyler]]></category>
+			<category><![CDATA[May]]></category>
+			<category><![CDATA[traces]]></category>
+			<category><![CDATA[the]]></category>
+			<category><![CDATA[pill's]]></category>
+			<category><![CDATA[influence]]></category>
+			<category><![CDATA[on]]></category>
+			<category><![CDATA[women]]></category>
+			<media:group>
+				<media:content url="http://www.washingtonpost.com/wp-dyn/content/photo/2010/05/28/PH2010052804620.jpg" type="image/jpeg" height="228" width="153"/>
+				<media:content url="http://www.washingtonpost.com/wp-dyn/content/photo/2010/05/28/PH2010052804624.jpg" type="image/jpeg" height="80" width="72"/>
+			</media:group>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss xmlns:pheedo="http://www.pheedo.com/namespace/pheedo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+	<channel>
+		<title>NYT &gt; Health</title>
+		<link>http://www.nytimes.com/pages/health/index.html?partner=rss</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2009
+ The New York Times Company</copyright>
+		<lastBuildDate>Sun, 19 Apr 2009 00:47:46 GMT
+</lastBuildDate>
+		<image>
+			<title>NYT &gt; Health</title>
+			<url>http://graphics.nytimes.com/images/section/NytSectionHeader.gif</url>
+			<link>http://www.nytimes.com/pages/health/index.html?partner=rss</link>
+		</image>
+		<item>
+			<title>Some Stem Cell Research Limits Lifted</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7e702d6c28dde3450e5064180103028b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/18/health/18stem.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/18/health/18stem.html</guid>
+			<description>The proposed guideline announced by the Obama administration will please many but not all scientists.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7e702d6c28dde3450e5064180103028b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7e702d6c28dde3450e5064180103028b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By GARDINER HARRIS</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 06:26:10 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stem Cells</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Subsidy Plan Seeks to Cut Malaria Drug Cost</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=17c08c2a21f2180b0ed70c5edd5ffaf7</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/18/world/18malaria.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/18/world/18malaria.html</guid>
+			<description>International health agencies and European governments want to get critical antimalarial medication into the hands of the poor for as little as a nickel wholesale.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=17c08c2a21f2180b0ed70c5edd5ffaf7&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=17c08c2a21f2180b0ed70c5edd5ffaf7&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DONALD G. McNEIL Jr.</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 06:16:24 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Third World and Developing Countries</category>
+		</item>
+		<item>
+			<title>Guidance Counselor | Learning Disabilities: Stepping Up to the Challenge</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7137617d2e2d7f1b45043ff2c651e51a</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/19/education/edlife/guidance-t.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/19/education/edlife/guidance-t.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/19/education/19edlifeGuidanceCounselor.7.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Tony Cenicola/The New York Times</media:credit>
+			<description>For students with attention deficit disorder, the transition to college can be shaky.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7137617d2e2d7f1b45043ff2c651e51a&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7137617d2e2d7f1b45043ff2c651e51a&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By TARA PARKER-POPE</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 16:19:48 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attention Deficit Hyperactivity Disorder</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Special Education (Handicapped)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Education and Schools</category>
+		</item>
+		<item>
+			<title>Going Against the Trend, Nevada Lawmakers Consider Easing the State&#x2019;s Ban on Smoking</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=f679df41e0877bc121bb671d8cb94408</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/19/us/19smoking.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/19/us/19smoking.html</guid>
+			<description>The Nevada Senate advanced a measure that would allow smoking in taverns that serve food after owners complained of falling gambling revenue.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=f679df41e0877bc121bb671d8cb94408&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=f679df41e0877bc121bb671d8cb94408&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By STEVE FRIESS</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 23:19:23 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gambling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">State Legislatures</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bars</category>
+		</item>
+		<item>
+			<title>Patient Money: Some Caveats About Keeping Your Own Electronic Health Records</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=760ff2562734eaf50564f10e2dd19c60</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/18/health/18patient.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/18/health/18patient.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/18/health/18patient75.jpg" medium="image" height="75" width="75"/>
+			<media:description>&#x201C;We&#x2019;ve got a long way to go&#x201D; before digital health files are widespread, said Dr. Ashish Jha, an associate professor at Harvard who has been involved in several studies on such records.</media:description>
+			<media:credit>Jodi Hilton for The New York Times</media:credit>
+			<description>Much work remains to be done before detailed medical files and seamless communication can improve the quality of health care.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=760ff2562734eaf50564f10e2dd19c60&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=760ff2562734eaf50564f10e2dd19c60&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By WALECIA KONRAD</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 07:34:31 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>A Hard-Charging Doctor on Obama&#x2019;s Team</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=ee82a81ab4041c5e4d242cb5ff42f58a</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/18/us/politics/18zeke.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/18/us/politics/18zeke.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/18/us/18zeke.751.jpg" medium="image" height="75" width="75"/>
+			<media:description>Dr. Ezekiel J. Emanuel looks at health care issues from a physician&#x2019;s perspective. His brother Rahm is President Obama&#x2019;s White House chief of staff.</media:description>
+			<media:credit>Stephen Crowley/The New York Times</media:credit>
+			<description>With a black belt in tae kwon do and a degree in philosophy, Dr. Ezekiel Emanuel brings an unorthodox perspective to President Obama&#x2019;s health care effort.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=ee82a81ab4041c5e4d242cb5ff42f58a&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=ee82a81ab4041c5e4d242cb5ff42f58a&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ROBERT PEAR</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 12:48:34 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ezekiel J</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Management and Budget</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Reform and Reorganization</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orszag, Peter R</category>
+		</item>
+		<item>
+			<title>Recipes for Health: Miso Soup With Tofu</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d82dc11739a88896b046ea170699daca</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/health/nutrition/17recipehealth.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/health/nutrition/17recipehealth.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/17/health/17recipehealth_75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Andrew Scrivani for The New York Times</media:credit>
+			<description>A version of the Japanese classic, this time with more vegetables.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d82dc11739a88896b046ea170699daca&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d82dc11739a88896b046ea170699daca&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MARTHA ROSE SHULMAN</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 19:54:56 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tofu</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Recipes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Soups</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Task to Aid Self-Esteem Lifts Grades for Some</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=09ba08184d2476ea17869e97a1304905</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/science/17esteem.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/science/17esteem.html</guid>
+			<description>The students who benefited most were blacks who were doing poorly, the study found.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=09ba08184d2476ea17869e97a1304905&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=09ba08184d2476ea17869e97a1304905&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By BENEDICT CAREY</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 06:39:13 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Education and Schools</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Psychology and Psychologists</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stress (Human)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+		</item>
+		<item>
+			<title>A Cheap, Fast and Possibly Deadly Route to Beauty</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=480cab105701a598e572c9c5fcec449e</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/nyregion/17silicone.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/nyregion/17silicone.html</guid>
+			<description>Officials fear that a growing number of women are using illegal silicone injections instead of cosmetic surgery.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=480cab105701a598e572c9c5fcec449e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=480cab105701a598e572c9c5fcec449e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANEMONA HARTOCOLLIS and CHRISTINA DAVIDSON</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 18:36:10 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Silicone</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Plastic Surgery</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Implants</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Poisoning and Poisons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Surgery and Surgeons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Transsexuals</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Health and Mental Hygiene Department (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+		</item>
+		<item>
+			<title>Glaxo and Pfizer Join Forces to Develop and Market H.I.V. Drugs</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=ca255d1b8324f2dab2c63ac9dfd97870</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/business/17drug.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/business/17drug.html</guid>
+			<description>The pharmaceutical giants GlaxoSmithKline and Pfizer said they would form a specialty company to research, develop and market treatments for H.I.V.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=ca255d1b8324f2dab2c63ac9dfd97870&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=ca255d1b8324f2dab2c63ac9dfd97870&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NATASHA SINGER</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 06:44:11 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">GlaxoSmithKline PLC|GSK|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pfizer Inc|PFE|NYSE</category>
+		</item>
+		<item>
+			<title>Genes Show Limited Value in Predicting Diseases</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=107e5394553995c93df7a386befaab78</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/health/research/16gene.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/health/research/16gene.html</guid>
+			<description>The genetic analysis of common disease is turning out to be a lot more complex than expected, according to new commentary.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=107e5394553995c93df7a386befaab78&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=107e5394553995c93df7a386befaab78&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS WADE</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 06:28:59 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New England Journal of Medicine</category>
+		</item>
+		<item>
+			<title>To Fill Food Safety Gap, Processors Pay Inspectors</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d3bc4cbe8ed30ea0dc6c01721c81dfda</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/business/17leafy.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/business/17leafy.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/16/business/17leafy_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>A worker spraying chlorinated water to kill germs on crops at a Church Brothers field in Huron, Calif. </media:description>
+			<media:credit>Peter DaSilva for The New York Times</media:credit>
+			<description>Safety scares prompted California&#x2019;s so-called leafy greens industry to pay for inspections that the F.D.A. rarely does.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d3bc4cbe8ed30ea0dc6c01721c81dfda&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d3bc4cbe8ed30ea0dc6c01721c81dfda&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANDREW MARTIN</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 20:07:34 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food Contamination and Poisoning</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Agriculture</category>
+		</item>
+		<item>
+			<title>Skin Deep: Many Cutbacks but Not for Straight Teeth</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=b6fcb22cd24e3246d54b5eb6e105a63f</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/fashion/16SKIN.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/fashion/16SKIN.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/15/fashion/16skin-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Ralph A. Clevenger/Corbis</media:credit>
+			<description>Even in a recession, parents see braces for their children as an investment in the future.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=b6fcb22cd24e3246d54b5eb6e105a63f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=b6fcb22cd24e3246d54b5eb6e105a63f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By CATHERINE SAINT LOUIS</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 19:21:00 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Teeth and Dentistry</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Youth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Recession and Depression</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">orthodontics</category>
+		</item>
+		<item>
+			<title>Morning Rounds: Defective Fitness Balls, H.I.V. in Prisons and Obese Airline Passengers</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=92437994d1d921ae3f4789c1e95337e3</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/17/health/17rounds.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/17/health/17rounds.html</guid>
+			<description>Health news from around the Web.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=92437994d1d921ae3f4789c1e95337e3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=92437994d1d921ae3f4789c1e95337e3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By RONI CARYN RABIN</dc:creator>
+			<pubDate>Sat, 18 Apr 2009 07:42:44 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>I.Q. Harmed by Epilepsy Drug in Utero</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3994fe243e707bdcd10bca26e1de4851</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/health/research/16child.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/health/research/16child.html</guid>
+			<description>Children of women who took valproate during pregnancy scored lower on I.Q. tests than similar children not exposed to the drug, researchers found.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3994fe243e707bdcd10bca26e1de4851&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3994fe243e707bdcd10bca26e1de4851&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By RONI CARYN RABIN</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 06:52:30 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Seizures (Medical)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Epilepsy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Youth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Study Finds Risk of Dementia Increases After Hypoglycemia</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=ec9d377842f5bf772f9aefeeab170506</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/15/health/research/15dementia.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/15/health/research/15dementia.html</guid>
+			<description>A study of older patients with Type 2 diabetes found that those who had experienced a serious episode of hypoglycemia were at higher risk for developing dementia.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=ec9d377842f5bf772f9aefeeab170506&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=ec9d377842f5bf772f9aefeeab170506&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By RONI CARYN RABIN</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 02:02:52 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hypoglycemia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Journal of the American Medical Assn</category>
+		</item>
+		<item>
+			<title>Promising Test for Dendreon&#x2019;s Prostate Cancer Drug</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7bc3393cda6a5dddf591aa6b01ce4504</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/15/business/15cancer.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/15/business/15cancer.html</guid>
+			<description>A prostate cancer drug developed by the biotechnology company Dendreon prolonged the lives of men in a decisive clinical trial, the company said.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7bc3393cda6a5dddf591aa6b01ce4504&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7bc3393cda6a5dddf591aa6b01ce4504&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANDREW POLLACK</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 17:57:00 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Gland</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Dendreon Corporation|DNDN|NASDAQ</category>
+		</item>
+		<item>
+			<title>Prenatal Testing of Thyroid Is Debated</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=276d048359209a4ebdcb6c69426359a3</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14thyr.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14thyr.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/14/science/14thyroid-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">DEPICTION</em>Renaissance artists unwittingly captured links between motherhood and thyroid trouble by showing goiters.</media:description>
+			<media:credit>Scala/Art Resource</media:credit>
+			<description>Most doctors&#x2019; groups have not endorsed universal prenatal thyroid screening, but advocates of routine testing see no need to wait for more answers.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=276d048359209a4ebdcb6c69426359a3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=276d048359209a4ebdcb6c69426359a3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By INGFEI CHEN</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 06:47:02 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Thyroid Gland</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Obstetrics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Women</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tests and Testing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Patterns: Living Near a Highway Linked to Arthritis</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7f572a72cf4825aea6a2fac1653ae713</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14patt.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14patt.html</guid>
+			<description>Only 1 percent of the population is affected by rheumatoid arthritis, but living near a highway seems to increase your risk.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7f572a72cf4825aea6a2fac1653ae713&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7f572a72cf4825aea6a2fac1653ae713&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 05:19:28 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Arthritis and Rheumatism</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Jail Time Increases Odds of Hypertension, Researchers Find</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=e508b620d0b624dccfa598e1e0fa05a9</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14heart.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14heart.html</guid>
+			<description>Development of hypertension in former inmates was not related to the usual risk factors, like smoking and alcohol use, a study has found.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=e508b620d0b624dccfa598e1e0fa05a9&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=e508b620d0b624dccfa598e1e0fa05a9&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By RONI CARYN RABIN</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 22:30:07 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Pressure</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hypertension</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Global Update: AIDS: Earlier Drug Treatment for AIDS Saves More Lives, Study Finds</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=affca0ee1d2ff243b64b81967639f7a9</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14glob.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14glob.html</guid>
+			<description>Researchers have identified a new benchmark for starting drug treatment for AIDS, according to a new report.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=affca0ee1d2ff243b64b81967639f7a9&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=affca0ee1d2ff243b64b81967639f7a9&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DONALD G. McNEIL Jr.</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 06:03:26 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>First Mention: Alzheimer&#x2019;s Disease</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=e36542717bf0fa1cecf06af693f02d37</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14first.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14first.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/14/science/14first-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">LABELS</em>Alois Alzheimer wrote of pre-senile dementia.</media:description>
+			<media:credit/>
+			<description>Alois Alzheimer was the first to note the characteristics of what came to be known as Alzheimer&#x2019;s disease in a young woman.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=e36542717bf0fa1cecf06af693f02d37&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=e36542717bf0fa1cecf06af693f02d37&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NICHOLAS BAKALAR</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 06:05:17 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer's Disease</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Showdown at the Coffee Shop</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=74b2beb3f2ef74875255af076c372555</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/15/dining/15sweet.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/15/dining/15sweet.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/15/dining/15sweetener-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">BATTLING FOR YOUR TASTE BUDS</em>From left, Sweet &#x2019;N Low (saccharin), Splenda (sucralose), Equal (aspartame) and a newcomer, Truvia (stevia), share a market of often impassioned fans.</media:description>
+			<media:credit>Tony Cenicola/The New York Times</media:credit>
+			<description>The world of artificial sweeteners is changing as a new player, dressed in green, hopes to shift the balance of power.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=74b2beb3f2ef74875255af076c372555&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=74b2beb3f2ef74875255af076c372555&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By KIM SEVERSON</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 15:43:25 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sweetners, Artificial</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sugar</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Taste</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Soft Drinks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Aspartame</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sucralose (Artificial Sweetener)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cooking and Cookbooks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diabetes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">stevia</category>
+		</item>
+		<item>
+			<title>Recipes for Health: Spicy Stir-Fried Tofu With Bok Choy or Baby Broccoli</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=2e6fc698be0eff35f6ef51b30db3bf73</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/health/nutrition/16recipehealth.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/health/nutrition/16recipehealth.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/16/health/16recipehealth_75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Andrew Scrivani for The New York Times</media:credit>
+			<description>A nutrient-rich stir-fry that makes for a zesty entree.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=2e6fc698be0eff35f6ef51b30db3bf73&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=2e6fc698be0eff35f6ef51b30db3bf73&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MARTHA ROSE SHULMAN</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 19:54:47 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tofu</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Regimens: Tai Chi Shows Promise as a Stroke Therapy</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=97b38277eb3d2a36feda00b699175a52</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/07/health/07regi.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/07/health/07regi.html</guid>
+			<description>Tai chi may improve the balance of stroke patients, a new study shows.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=97b38277eb3d2a36feda00b699175a52&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=97b38277eb3d2a36feda00b699175a52&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ERIC NAGOURNEY</dc:creator>
+			<pubDate>Tue, 07 Apr 2009 05:20:32 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tai Chi (Oriental Exercise)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Vital Signs: Children: Early Swim Lessons May Reduce Drowning</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=c313013411de3019b53519d3caf82d03</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/07/health/07chil.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/07/health/07chil.html</guid>
+			<description>Swimming lessons for children ages 1 to 4 may help reduce the risk of drowning, says a new study.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=c313013411de3019b53519d3caf82d03&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=c313013411de3019b53519d3caf82d03&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ERIC NAGOURNEY</dc:creator>
+			<pubDate>Tue, 07 Apr 2009 05:20:57 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Youth</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Help Is Sought for West Virginia Health System</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3bbf365be3f9cee9b0972bd97d96300a</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/us/16west.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/us/16west.html</guid>
+			<description>Amid reports that characterized West Virginia&#x2019;s system for treating the mentally ill as one of the worst in the country, the state&#x2019;s legislature approved a $6 million increase in financing.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=3bbf365be3f9cee9b0972bd97d96300a&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=3bbf365be3f9cee9b0972bd97d96300a&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By SEAN D. HAMILL</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 06:58:21 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+		</item>
+		<item>
+			<title>Quest to Pay $302 Million in Marketing Case</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=6980b16fd6d702775c42aae8b6754d4b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/business/16tests.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/business/16tests.html</guid>
+			<description>Quest Diagnostics will pay $302 million and one of its business units will plead guilty to misleading marketing practices as part of a settlement with the federal government.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=6980b16fd6d702775c42aae8b6754d4b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=6980b16fd6d702775c42aae8b6754d4b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 07:14:06 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Quest Diagnostics Inc|DGX|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+		</item>
+		<item>
+			<title>As Pills Treat Cancer, Insurance Lags Behind</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=7848731d26bdea658c164bf253a4df95</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/15/business/15pill.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/15/business/15pill.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/15/business/15pill_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Chuck Stauffer&#x2019;s insurance covered hardly any of the cost of the cancer pills the doctor prescribed for him to take at home.</media:description>
+			<media:credit>Brian Lee for The New York Times</media:credit>
+			<description>Pills are the new wave in cancer treatment, but payment coverage is often behind the times.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=7848731d26bdea658c164bf253a4df95&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=7848731d26bdea658c164bf253a4df95&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANDREW POLLACK</dc:creator>
+			<pubDate>Wed, 15 Apr 2009 17:47:38 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Therapy and Rehabilitation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Overseer of Medical Trials, Under F.D.A. Pressure, Agrees to Suspension</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=bb305197112437850e613d7d352bce2e</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/15/business/15device.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/15/business/15device.html</guid>
+			<description>A Colorado company that approved a make-believe clinical trial run by doctors who did not exist agreed to suspend approving federally regulated medical studies.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=bb305197112437850e613d7d352bce2e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=bb305197112437850e613d7d352bce2e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By BARRY MEIER</dc:creator>
+			<pubDate>Wed, 15 Apr 2009 05:55:18 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Testing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+		</item>
+		<item>
+			<title>Taking a Page, and a Pen, From Makers of Medicines</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=6da889dc5b9ac60cdfbf30948fff3a82</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/13/nyregion/13detail.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/13/nyregion/13detail.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/13/nyregion/13detail.75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Sharraine Franklin, a city worker known as a detailer, brings literature for Dr. Muhammad Sanni Adam to give to his patients.</media:description>
+			<media:credit>Ruby Washington/The New York Times</media:credit>
+			<description>New York City is using representatives known as detailers to conduct public health campaigns drawing on the techniques of drug company salespeople.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=6da889dc5b9ac60cdfbf30948fff3a82&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=6da889dc5b9ac60cdfbf30948fff3a82&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANEMONA HARTOCOLLIS</dc:creator>
+			<pubDate>Mon, 13 Apr 2009 06:02:35 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+		</item>
+		<item>
+			<title>Personal Health: Keeping Those Bed Bugs From Biting</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=8090bb80ca434062ee15e2044aa19e52</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14brod.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14brod.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/13/health/14brody-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Yarek Waszul</media:credit>
+			<description>Bed bug infestations may be on the rise. What can you do to prevent being bitten?&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=8090bb80ca434062ee15e2044aa19e52&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=8090bb80ca434062ee15e2044aa19e52&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JANE E. BRODY</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 11:15:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Bedbugs</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mattresses</category>
+		</item>
+		<item>
+			<title>Really?: The Claim: Nasal Irrigation Can Ease Allergy Symptoms</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d68e4bc866eb3ea6122380607de8a88f</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14real.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14real.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/13/health/14real-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Leif Parsons</media:credit>
+			<description>Can a &#x201C;neti pot&#x201D; help to reduce suffering during allergy season?&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d68e4bc866eb3ea6122380607de8a88f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d68e4bc866eb3ea6122380607de8a88f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANAHAD O&#x2019;CONNOR</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 14:06:16 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Allergies</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Irrigation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">neti pot</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Well: Stomach Bug Crystallizes an Antibiotic Threat</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=03f8d09da53a657978038ff353caaed2</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14well.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14well.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/13/health/14well-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Stuart Bradford</media:credit>
+			<description>Drugs that solve one problem, only to open the door to another.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=03f8d09da53a657978038ff353caaed2&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=03f8d09da53a657978038ff353caaed2&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By TARA PARKER-POPE</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 16:53:12 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bacteria</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stomach</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Doctor and Patient: Life and Death on the Operating Table</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d4e909c37e2c21a0d61121ccc8c7bf0b</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/16/health/16chen.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/16/health/16chen.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/16/health/starzl_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>Dr. Thomas E. Starzl</media:description>
+			<media:credit/>
+			<description>Transplant surgeon Dr. Thomas E. Starzl, a pioneer of modern medicine, offers advice for doctors and patients.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=d4e909c37e2c21a0d61121ccc8c7bf0b&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=d4e909c37e2c21a0d61121ccc8c7bf0b&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By PAULINE W. CHEN, M.D.</dc:creator>
+			<pubDate>Fri, 17 Apr 2009 14:08:09 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Surgery and Surgeons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Cases: A City of Strangers and Kindness</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=0f71fef5bd2bb0f7997b09deb6a309f3</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/14/health/14case.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/14/health/14case.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/13/health/14cases-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Joseph Daniel Fiedler</media:credit>
+			<description>A Parkinson&#x2019;s patient finds help when the drugs wear off.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=0f71fef5bd2bb0f7997b09deb6a309f3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=0f71fef5bd2bb0f7997b09deb6a309f3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By DARCY HELLER STERNBERG</dc:creator>
+			<pubDate>Tue, 14 Apr 2009 05:14:55 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Parkinson's Disease</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Recession Anxiety Seeps Into Everyday Lives</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=83553e9f606153fc26eaa20143bdeb18</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/09/health/09stress.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/09/health/09stress.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/09/us/09stress2_75.jpg" medium="image" height="75" width="75"/>
+			<media:description>From left, Monica Ferrari, Victoria Villalba and Line Bovery at a meditation class in Florida.</media:description>
+			<media:credit>Richard Patterson for The New York Times</media:credit>
+			<description>Experts see signs that stress is becoming more common as a result of the economic downturn.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=83553e9f606153fc26eaa20143bdeb18&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=83553e9f606153fc26eaa20143bdeb18&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By PAM BELLUCK</dc:creator>
+			<pubDate>Thu, 16 Apr 2009 15:27:45 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Stress (Human)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mental Health and Disorders</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Therapy and Rehabilitation</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Depression (Mental)</category>
+		</item>
+		<item>
+			<title>Cases: A Roller Coaster to Acceptance of a Son&#x2019;s Autism</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=064fbff00342bb14caac098c073ef727</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/04/07/health/07case.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/04/07/health/07case.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/04/06/health/07cases-75.jpg" medium="image" height="75" width="75"/>
+			<media:description>
+				<em class="bold">HIS OWN WAY </em>Jonah Lehmann, 25, who has autism, with the manager of his group home, Darlene Manuta.</media:description>
+			<media:credit>Donna Terek/The Detroit News</media:credit>
+			<description>When told their son&#x2019;s autism was &#x201C;untreatable,&#x201D; two parents stepped into action.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=064fbff00342bb14caac098c073ef727&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=064fbff00342bb14caac098c073ef727&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANNIE LUBLINER LEHMANN</dc:creator>
+			<pubDate>Tue, 07 Apr 2009 22:26:26 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+		</item>
+		<item>
+			<title>Cases: Comforter and Comforted in an Unfolding Mystery</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=2c6e627b31a342a467336d010aeb08fc</link>
+			<pheedo:origLink>http://www.nytimes.com/2009/03/31/health/31case.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2009/03/31/health/31case.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/03/30/health/31cases-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Yvetta Fedorova</media:credit>
+			<description>In a bedside companion, a human story beyond illness and treatment.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://www.pheedo.com/click.phdo?s=2c6e627b31a342a467336d010aeb08fc&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://www.pheedo.com/img.phdo?s=2c6e627b31a342a467336d010aeb08fc&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By NELL BURGER KIRST</dc:creator>
+			<pubDate>Wed, 01 Apr 2009 05:10:59 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+		<item>
+			<title>Mind: Accepting the Risks in Creating Confident Doctors</title>
+			<link>http://www.nytimes.com/2009/03/17/health/17mind.html?partner=rss&amp;emc=rss</link>
+			<guid isPermaLink="true">http://www.nytimes.com/2009/03/17/health/17mind.html</guid>
+			<media:content url="http://graphics8.nytimes.com/images/2009/03/16/health/17mind-75.jpg" medium="image" height="75" width="75"/>
+			<media:description/>
+			<media:credit>Brian Stauffer</media:credit>
+			<description>Both medical students and patients seem to understand that a lot of practice, sprinkled with a few errors, is necessary to make a medical expert.</description>
+			<dc:creator>By RICHARD A. FRIEDMAN, M.D.</dc:creator>
+			<pubDate>Tue, 17 Mar 2009 04:23:32 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>10923</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">187312314</controlfield>
+    <controlfield tag="006">m        d        </controlfield>
+    <controlfield tag="007">cr cn|||||||||</controlfield>
+    <controlfield tag="008">080104s2007    ne      ob    001 0 eng d</controlfield>
+    <controlfield tag="009">53720</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GW5XE</subfield>
+      <subfield code="c">GW5XE</subfield>
+      <subfield code="d">GW5XE</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">TEX</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9781402052149</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">1402052146</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000042133858</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">978-1-4020-5213-2</subfield>
+      <subfield code="b">Springer</subfield>
+      <subfield code="n">http://www.springerlink.com</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">RA427.25</subfield>
+      <subfield code="b">.D47 2007eb</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="060">
+      <subfield code="a">2007 F-152</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="060">
+      <subfield code="a">WA 21</subfield>
+      <subfield code="b">D394e 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">174.2</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Denier, Yvonne.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Efficiency, justice, and care</subfield>
+      <subfield code="h">[electronic resource] :</subfield>
+      <subfield code="b">philosophical reflections on scarcity in health care /</subfield>
+      <subfield code="c">Yvonne Denier.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Dordrecht :</subfield>
+      <subfield code="b">Springer,</subfield>
+      <subfield code="c">c2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xvii, 301 p.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">International library of ethics, law, and the new medicine ;</subfield>
+      <subfield code="v">v. 33</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">New York :</subfield>
+      <subfield code="c">Springer,</subfield>
+      <subfield code="d">2007.</subfield>
+      <subfield code="n">Mode of access: World Wide Web.</subfield>
+      <subfield code="n">System requirements: Web browser.</subfield>
+      <subfield code="n">Title from title screen (viewed on Dec. 13, 2007).</subfield>
+      <subfield code="n">Access may be restricted to users at subscribing institutions.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. 285-295) and index.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Public Health</subfield>
+      <subfield code="x">ethics.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Health Services Accessibility.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Prejudice.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Social Justice.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Public health</subfield>
+      <subfield code="x">Moral and ethical aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Health services accessibility.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Discrimination in medical care.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Social justice.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Electronic books.</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="776">
+      <subfield code="c">Original</subfield>
+      <subfield code="z">9781402052132</subfield>
+      <subfield code="z">1402052138</subfield>
+      <subfield code="z">9781402052149</subfield>
+      <subfield code="z">1402052146</subfield>
+      <subfield code="w">(OCoLC)74968032</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">SpringerLink (Online service)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">International library of ethics, law, and the new medicine ;</subfield>
+      <subfield code="v">v. 33.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">SpringerLink</subfield>
+      <subfield code="u">http://dx.doi.org/10.1007/978-1-4020-5214-9</subfield>
+      <subfield code="z">An electronic book accessible through the World Wide Web; click for information</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2593768</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000ctm a2200000Ka 4500</leader>
+    <controlfield tag="001">642838992</controlfield>
+    <controlfield tag="006">m        d        </controlfield>
+    <controlfield tag="007">cr bn||||auauu</controlfield>
+    <controlfield tag="008">100622s2007    xxu     obm   000 0 eng d</controlfield>
+    <controlfield tag="009">1499</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">CFT</subfield>
+      <subfield code="c">CFT</subfield>
+      <subfield code="d">CFT</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="090">
+      <subfield code="a">RD763</subfield>
+      <subfield code="b">.C767 2007</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Crosland, J. Grady.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The separation of craniopagus conjoined twins :</subfield>
+      <subfield code="b">a bioethical analysis</subfield>
+      <subfield code="h">[electronic resource] /</subfield>
+      <subfield code="c">by J. Grady Crosland.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">vii, 71 leaves ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="502">
+      <subfield code="a">Thesis (M.A.) -- Reformed Theological Seminary, Virtual Campus, 2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">A particular medical case involving the separation of craniopagus conjoined twins is chronicled and an ethical analysis of the decision to undertake the operation is offered. A general review of different schools of ethics and their history is provided. A review of the history of medical ethics and its precepts as understood in the present culture and its application to the case under examination is also proffered. The purposes of medicine are discussed referencing professional medical societies and contemporary bioethicists. The church's history with respect to medicine and a discussion of anthropology complete the background for formulating a philosophical grid of ethical judgment. Lastly, a review of the medical literature reveals technical advances as well as insight into the ethical thinking of those who are involved with the actual separation of conjoined twins. The roles of the hospital Ethics Committee and the hospital chaplain's within that committee are addressed. This case can be utilized by medical students, physicians, medical ethicists, seminary students and professors of practical theology to examine a particular, rare and complex situation to reveal many different aspects to be considered in developing their personal medical ethics. The fact that the results of the surgery were the "best case" scenario sought by the operating team is not a de facto affirmation of its ethical process.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Portland, Ore. :</subfield>
+      <subfield code="c">Theological Research Exchange Network,</subfield>
+      <subfield code="d">2009.</subfield>
+      <subfield code="f">(Theological Research Exchange Network ; 083-0034).</subfield>
+      <subfield code="n">Available via World Wide Web.</subfield>
+      <subfield code="n">Access may be limited to Theological Research Exchange Network affiliated libraries.</subfield>
+      <subfield code="n">System requirements: Adobe Acrobat Reader.</subfield>
+      <subfield code="n">User name and password required.</subfield>
+      <subfield code="n">Electronic text (PDF).</subfield>
+      <subfield code="n">Also available in print or microfiche.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="539">
+      <subfield code="a">s</subfield>
+      <subfield code="b">2009</subfield>
+      <subfield code="d">oru</subfield>
+      <subfield code="e">n</subfield>
+      <subfield code="g">s</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Conjoined twins.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Skull</subfield>
+      <subfield code="x">Abnormalities</subfield>
+      <subfield code="x">Surgery.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Medical ethics.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Theological Research Exchange Network.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Theological Research Exchange Network (Series) ;</subfield>
+      <subfield code="v">083-0034</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.tren.com/search.cfm?p083-0034</subfield>
+      <subfield code="z">Theological Research Exchange Network (TREN)</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="u">http://www.tren.com</subfield>
+      <subfield code="z">Theological Research Exchange Network (TREN) Access this title online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://dx.doi.org/10.2986/tren.083-0034</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">432044712</controlfield>
+    <controlfield tag="006">m        d        </controlfield>
+    <controlfield tag="007">cr cnu---unuuu</controlfield>
+    <controlfield tag="008">090820s2009    fluab   ob    101 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">N$T</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">N$T</subfield>
+      <subfield code="d">CDX</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">CUS</subfield>
+      <subfield code="d">IDEBK</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780203875438 (electronic bk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0203875435 (electronic bk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TD201</subfield>
+      <subfield code="b">.M3752 2007eb</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">178</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="111">
+      <subfield code="a">Marcelino Botín Water Forum</subfield>
+      <subfield code="n">(3rd :</subfield>
+      <subfield code="d">2007 :</subfield>
+      <subfield code="c">Santander, Spain)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Water ethics</subfield>
+      <subfield code="h">[electronic resource] /</subfield>
+      <subfield code="c">editors, M. Ramón Llamas, Luis Martínez-Cortina, Aditi Mukherji.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Boca Raton [Fla.] ;</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">CRC Press,</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">CRC Press,</subfield>
+      <subfield code="c">c2009.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (xxvi, 353 p.) :</subfield>
+      <subfield code="b">ill., maps</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"A Balkema book."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Papers from the 3rd Marcelino Botín Foundation Water Workshop, June 12-14, 2007, Santander, Spain.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references and indexes.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Description based on print version record.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water-supply</subfield>
+      <subfield code="x">Government policy</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water resources development</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water and civilization</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water rights</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Poor</subfield>
+      <subfield code="x">Health and hygiene</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Basic needs</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Electronic books.</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Llamas, Manuel Ramón.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Martínez-Cortina, Luis.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Martínez-Cortina, Luis.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Mukherji, Aditi.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Fundación Marcelino Botín.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version:</subfield>
+      <subfield code="a">Marcelino Botín Foundation Water Workshop (3rd : 2007 : Santander, Spain).</subfield>
+      <subfield code="t">Water ethics.</subfield>
+      <subfield code="d">Boca Raton [Fla.] ; London : CRC Press, c2009</subfield>
+      <subfield code="z">9780415473033</subfield>
+      <subfield code="z">0415473039</subfield>
+      <subfield code="z">9780203875438</subfield>
+      <subfield code="z">0203875435</subfield>
+      <subfield code="w">(DLC)  2008055356</subfield>
+      <subfield code="w">(OCoLC)264021897</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">NetLibrary</subfield>
+      <subfield code="u">http://www.netlibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=281825</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">CRCnetBASE</subfield>
+      <subfield code="u">http://www.crcnetbase.com/doi/book/10.1201/9780203875438</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">MyiLibrary</subfield>
+      <subfield code="u">http://www.myilibrary.com?id=211103</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Coutts Information Services</subfield>
+      <subfield code="b">COUT</subfield>
+      <subfield code="n">10561008</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">3052375</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">CDX</subfield>
+      <subfield code="b">10561008</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">636383267</controlfield>
+    <controlfield tag="008">091106s2006    njua     b    001 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2005033068</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">SzZUIDS</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">CHVBK</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">1588295214 (alk. paper)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9781588295217 (alk. paper)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">1597450960</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9781597450966</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="024">
+      <subfield code="a">10.1007/978-1-59745-096-6</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="050">
+      <subfield code="a">RC685.C6</subfield>
+      <subfield code="b">P675 2006</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="060">
+      <subfield code="a">WG 300</subfield>
+      <subfield code="b">P9457 2006</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="082">
+      <subfield code="a">616.1/23</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Preventive cardiology :</subfield>
+      <subfield code="b">insights into the prevention and treatment of cardiovascular disease /</subfield>
+      <subfield code="c">ed. by JoAnne Micale Foody.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">2nd ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Totowa, N.J :</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Totowa, N.J :</subfield>
+      <subfield code="b">Humana Press,</subfield>
+      <subfield code="c">2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">346 S :</subfield>
+      <subfield code="b">ill.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Contemporary cardiology</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references and index.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Kardiovaskuläre Krankheit.</subfield>
+      <subfield code="2">idszbz</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Koronarsklerose.</subfield>
+      <subfield code="2">idszbz</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Prävention.</subfield>
+      <subfield code="2">idszbz</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Risikofaktor.</subfield>
+      <subfield code="2">idszbz</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Cardiology.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Coronary heart disease</subfield>
+      <subfield code="x">Pathophysiology.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Coronary heart disease</subfield>
+      <subfield code="x">Prevention.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Coronary heart disease</subfield>
+      <subfield code="x">Risk factors.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Corpus Luteum Maintenance</subfield>
+      <subfield code="x">ethics.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Luteolysis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Luteolysis</subfield>
+      <subfield code="x">metabolism.</subfield>
+      <subfield code="a">Luteolysis</subfield>
+      <subfield code="x">metabolism.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">RNA, Transfer</subfield>
+      <subfield code="x">therapeutic use.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">BLUT-, HERZ- UND KREISLAUFKRANKHEITEN (PATHOLOGIE)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">PROPHYLAXE, PRÄVENTIVMEDIZIN, VORBEUGENDE MASSNAHMEN (HUMANMEDIZIN)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">RISIKOEINSCHÄTZUNG/GESUNDHEITSRISIKEN</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">AUFSATZSAMMLUNGEN (DOKUMENTENTYP)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">BLOOD DISEASES, HEART DISEASES, CIRCULATORY DISEASES (PATHOLOGY)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">MALADIES CARDIO-VASCULAIRES (PATHOLOGIE)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">PRÉVENTION + MÉDECINE PRÉVENTIVE (MÉDECINE HUMAINE)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">PREVENTIVE MEDICINE + PREVENTIVE MEDICAL TREATMENT + MEDICAL PROPHYLAXIS (HUMAN MEDICINE)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">RISK ASSESSMENT/HEALTH RISKS</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">ÉVALUATION DES RISQUES POUR LA SANTÉ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">COLLECTIONS OF ESSAYS (TYPE OF DOCUMENT)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">COLLECTIONS D'ARTICLES ET D'ESSAIS (TYPE DE DOCUMENT)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Aufsatzsammlung.</subfield>
+      <subfield code="2">idszbz</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Foody, JoAnne Micale.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&amp;genre=book&amp;isbn=978-1-58829-521-7&amp;id=doi:10.1007/978-1-59745-096-6</subfield>
+      <subfield code="z">Online via SFX</subfield>
+      <subfield code="3">Volltext</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">CHVBK</subfield>
+      <subfield code="b">114365245</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ka 4500</leader>
+    <controlfield tag="001">681908642</controlfield>
+    <controlfield tag="006">m        d        </controlfield>
+    <controlfield tag="007">cr cn|||||||||</controlfield>
+    <controlfield tag="008">101118s2000    nyu     sb    001 0 eng d</controlfield>
+    <controlfield tag="009">56298</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">UKPGM</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">UKPGM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780230286269 (electronic bk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0230286267 (electronic bk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">495500</subfield>
+      <subfield code="b">Palgrave Macmillan</subfield>
+      <subfield code="n">http://www.palgraveconnect.com</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">GE42</subfield>
+      <subfield code="b">.R69 2000</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">179/.1</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowlands, Mark.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The environmental crisis</subfield>
+      <subfield code="h">[electronic resource] :</subfield>
+      <subfield code="b">understanding the value of nature /</subfield>
+      <subfield code="c">Mark Rowlands.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">St. Martin's Press,</subfield>
+      <subfield code="c">2000.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">x, 191 p. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Basingstoke, England :</subfield>
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Basingstoke, England :</subfield>
+      <subfield code="c">Palgrave Macmillan,</subfield>
+      <subfield code="d">2010.</subfield>
+      <subfield code="n">Mode of access: World Wide Web.</subfield>
+      <subfield code="n">System requirements: Web browser.</subfield>
+      <subfield code="n">Title from title screen (viewed on Nov. 9, 2010).</subfield>
+      <subfield code="n">Access may be restricted to users at subscribing institutions.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Venomous Earth is the compelling story of the worst chemical disaster in human history - unfolding now. It explores the geology, politics and biology of why tens thousands of people are dying, hundreds of thousands developing cancer and tens of millions of people are at risk in Bangladesh, India and beyond, from arsenic-contaminated well water. Andrew Meharg compares this scenario with that in other arsenic-rich zones of the world where drinking water is tainted, such as extensive areas of South Western USA, the Alto Plano of South America and New Zealand's volcanic regions. He details historical precedents spanning thousands of years in mining and smelting communities, and due to the widespread use of arsenic in alchemy, farming, medicine and manufacturing. His tale takes in William Morris, Paracelsus, Nero and a cosmetic that killed two popes. Finally Venomous Earth looks at how the current arsenic crisis is to be tackled and highlights new challenges to our ongoing struggle with the toxic element.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">The Devil's Water -- A Natural Disaster -- Fool's Gold -- The Verdant Assassin -- Healing Arsenic -- To Frustrate The Aim Of Justice -- Nothing Green Met The Eye -- The Extraordinarily Protracted Process -- Fighting Arsenic.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (p. 179-188) and index.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Environmental ethics.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Value.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Electronic books.</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version:</subfield>
+      <subfield code="a">Rowlands, Mark.</subfield>
+      <subfield code="t">Environmental crisis.</subfield>
+      <subfield code="d">New York : St. Martin's Press, 2000</subfield>
+      <subfield code="z">0312232357</subfield>
+      <subfield code="w">(DLC)   99059239</subfield>
+      <subfield code="w">(OCoLC)42960541</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Palgrave Connect (Online service)</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Palgrave Connect</subfield>
+      <subfield code="u">http://www.palgraveconnect.com/doifinder/10.1057/9780230286269</subfield>
+      <subfield code="z">An electronic book accessible through the World Wide Web; click for information</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Contributor biographical information</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/bios/hol057/99059239.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Publisher description</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/description/hol057/99059239.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Table of contents</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/toc/hol053/99059239.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000nmm a22000003u 4500</leader>
+    <controlfield tag="001">680435658</controlfield>
+    <controlfield tag="008">110204nuuuuuuuuxx         u        und d</controlfield>
+    <datafield ind1="8" ind2=" " tag="024">
+      <subfield code="a">Rogers, W.A., 2004. Evidence-based medicine and women: Do the principles and practice of EBM further women's health?. Bioethics, 18(1), 50-71.</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="024">
+      <subfield code="a">0269-9702</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="024">
+      <subfield code="a">2004053613</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="024">
+      <subfield code="a">doi:10.1111/j.1467-8519.2004.00378.x</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">LF0</subfield>
+      <subfield code="b">oai:dspace.flinders.edu.au:2328/14863</subfield>
+      <subfield code="c">http://dspace.flinders.edu.au/dspace-oai/request hdl_2328_8311</subfield>
+      <subfield code="t">DGCNT</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">LF0</subfield>
+      <subfield code="c">LF0</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">dc</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Evidence-based medicine and women: Do the principles and practice of EBM further women's health?</subfield>
+      <subfield code="h">[electronic resource].</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="520">
+      <subfield code="a">108 COWLEY RD, OXFORD, ENGLAND, OXON, OX4 1JF</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">2201 Applied Ethics</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">2203 Philosophy</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">2204 Religion and Religious Studies</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="720">
+      <subfield code="a">Rogers, Wendy Anne</subfield>
+      <subfield code="4">cre</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://hdl.handle.net/2328/14863</subfield>
+      <subfield code="3">Item Resolution URL</subfield>
+      <subfield code="x">This 856 field was generated using the WorldCat Digital Collection Gateway</subfield>
+      <subfield code="y">View online</subfield>
+      <subfield code="i">Put this Resolution URL in a web browser to view this item.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="902">
+      <subfield code="g">FLINDERS UNIV LIBR</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="949">
+      <subfield code="x">i</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">319064490</controlfield>
+    <controlfield tag="006">m    e   d        </controlfield>
+    <controlfield tag="007">cr bn|---auuuu</controlfield>
+    <controlfield tag="008">071103s2007    nyu     o     001 0 eng d</controlfield>
+    <controlfield tag="009">41004</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">MEAUC</subfield>
+      <subfield code="c">MEAUC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780195325461</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">019532546X</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Shrader-Frechette, Kristin.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Taking Action, Saving Lives</subfield>
+      <subfield code="h">[electronic resource] :</subfield>
+      <subfield code="b">Our Duties to Protect Environmental and Public Health.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Oxford University Press,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">256 p.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Oxford :</subfield>
+      <subfield code="c">Oxford University Press,</subfield>
+      <subfield code="d">2004.</subfield>
+      <subfield code="f">(Oxford scholarship online).</subfield>
+      <subfield code="n">Mode of access: World Wide Web. System requirements: Internet Explorer 5.5 (or higher) or Netscape Navigator 6.1 (or higher).</subfield>
+      <subfield code="n">Available as searchable text in HTML format.</subfield>
+      <subfield code="n">Access restricted to subscribing institutions.</subfield>
+      <subfield code="n">Access restricted to subscribing institutions.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Environmental health</subfield>
+      <subfield code="x">Moral and ethical aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Environmental Health.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Public Health.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Ethics, Medical.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Electronic books.</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Oxford University Press.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Oxford scholarship online.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="z">Access electronic book. Restricted to AUC students, faculty and staff.</subfield>
+      <subfield code="u">http://dx.doi.org/10.1093/acprof:oso/9780195325461.001.0001</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000caa a2200000Mi 4500</leader>
+    <controlfield tag="001">441838450</controlfield>
+    <controlfield tag="008">070509s2006    xxk           000 0 eng d</controlfield>
+    <controlfield tag="009">56664</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">IBMI</subfield>
+      <subfield code="e">ppiak</subfield>
+      <subfield code="b">slv</subfield>
+      <subfield code="c">SILIS</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="029">
+      <subfield code="a">SILIS</subfield>
+      <subfield code="b">22595289</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044">
+      <subfield code="a">xxk</subfield>
+      <subfield code="c">gbr</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="080">
+      <subfield code="a">614</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Sokol, Daniel.</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Patient confidentiality and telephone consultations :</subfield>
+      <subfield code="b">time for a password /</subfield>
+      <subfield code="c">D.K. Sokol and J. Car.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">str. 688-689.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">BSDOCID128779.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Although telephone consultations are widely used in the delivery of healthcare, they are vulnerable to breaches of patient confidentiality. Current guidelines on telephone consultations do not address adequately the issue of confidentiality. In this paper, we propose a solution to the PROBLEM:a password system to control access to patient information. Authorisedpersons will be offered the option of selecting a password which they will use to validate their request for information over the telephone. This simple yet stringent method of access control should improve security while allowing the continuing evolution of telephone consultations.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Ethics, Medical.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Confidentiality.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Consultants.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Telephone.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Etika medicinska.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Etika medicinska.</subfield>
+      <subfield code="2">mesh/slv</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Konzultanti.</subfield>
+      <subfield code="2">mesh/slv</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Telefon.</subfield>
+      <subfield code="2">mesh/slv</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Zaupnost.</subfield>
+      <subfield code="2">mesh/slv</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Car, Josip.</subfield>
+      <subfield code="4">aut</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="773">
+      <subfield code="t">Journal of medical ethics</subfield>
+      <subfield code="d">London : British Medical Assoc.</subfield>
+      <subfield code="x">0306-6800</subfield>
+      <subfield code="g">Letn. 32, št. 12 (2006), str. 688-689</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="856">
+      <subfield code="u">doi:10.1136/jme.2005.014415</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>1001</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>((((srw.su="medical" OR srw.kw="medicine") AND srw.su="ethics") OR srw.su="bioethics" OR (srw.su="assisted" AND srw.su="death") OR (srw.su="assisted" AND srw.su="suicide") OR (srw.su="organ" AND srw.su="trafficking") OR (srw.su="sale" AND srw.su="organs" AND srw.su="tissues") OR ((srw.su="ethics" OR srw.su="ethical") AND (srw.su="abortion" OR (srw.su="advance" AND srw.su="directives") OR (srw.su="animal" AND srw.su="industry") OR (srw.su="animal" AND srw.su="research") OR (srw.su="animal" AND srw.su="rights") OR (srw.su="animal" AND srw.su="welfare") OR srw.su="biodiversity" OR (srw.su="biomedical" AND srw.su="engineering") OR srw.su="biotechnology" OR srw.su="biopolitics" OR srw.su="brain" OR srw.su="cancer" OR srw.su="cloning" OR (srw.su="communicable" AND srw.su="diseases") OR srw.su="dignity" OR srw.su="disabilities" OR (srw.su="disease" AND srw.su="outbreaks") OR (srw.su="disease" AND srw.su="transmission") OR srw.su="embryo" OR srw.su="embryonic" OR srw.su="environment" OR srw.su="epidemics" OR srw.su="eugenics" OR srw.su="euthanasia" OR (srw.su="evolutionary" AND srw.su="ethics") OR (srw.su="genetic" AND srw.su="disorders") OR (srw.su="genetic" AND srw.su="engineering") OR srw.su="genetics" OR (srw.su="green" AND srw.su="movement") OR (srw.su="health" AND srw.su="policy") OR (srw.su="human" AND srw.su="abnormalities") OR (srw.su="human" AND srw.su="cloning") OR (srw.su="human" AND srw.su="experimentation") OR (srw.su="human" AND srw.su="genome") OR (srw.su="human" AND srw.su="reproductive" AND srw.su="technology") OR (srw.su="human" AND srw.su="rights") OR (srw.su="informed" AND srw.su="consent") OR (srw.su="medical" AND srw.su="care") OR (srw.su="medical" AND srw.su="genetics") OR (srw.su="medical" AND srw.su="innovations") OR (srw.su="medical" AND srw.su="laws" AND srw.su="legislation") OR (srw.su="medical" AND srw.su="philosophy") OR (srw.su="medical" AND srw.su="policy") OR (srw.su="medical" AND srw.su="technology") OR srw.su="medicine" OR srw.su="neuroscience" OR srw.su="nursing" OR srw.su="pandemic" OR (srw.su="patient" AND srw.su="advocacy") OR (srw.su="patient" AND srw.su="rights") OR (srw.su="pharmaceutical" AND srw.su="industry") OR (srw.su="Philosophy" AND srw.su="medical") OR srw.su="prenatal" OR (srw.su="priority" AND srw.su="setting") OR (srw.su="public" AND srw.su="health") OR srw.su="relativism" OR srw.su="reproduction" OR (srw.su="reproductive" AND srw.su="health") OR (srw.su="resuscitation" AND srw.su="orders") OR (srw.su="Right" AND srw.su="life") OR (srw.su="stem" AND srw.su="cell") OR (srw.su="technology" AND srw.su="medical") OR srw.su="tissue" OR srw.su="transplant" OR srw.su="transplantation" OR (srw.su="women" AND srw.su="health") OR (srw.su="world" AND srw.su="health")))) NOT srw.su="fiction") NOT srw.mt="juv" AND srw.mt="web"</query>
+<maximumRecords>50</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>951</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>qgLg3Q48QbEfzMSZHVrurEjx7GNsurp12HOhiEnUJq9o1dmk1UBxxa2DmyoiKA9DNEoRmCx7p9gLTE03</wskey>
+<servicelevel>full</servicelevel>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>BBC News | Health | World Edition</title>
+    <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/default.stm</link>
+    <description>Get the latest BBC Health News: breaking health and medical news from the UK and around the world, with in-depth features on well-being and lifestyle.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 18 Apr 2009 23:17:04 GMT</lastBuildDate>
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse</copyright>
+    <docs>http://www.bbc.co.uk/syndication/</docs>
+    <ttl>15</ttl>
+    <image>
+      <title>BBC News</title>
+      <url>http://news.bbc.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/default.stm</link>
+    </image>
+    <item>
+      <title>Pancreatic cancer therapy 'hope'</title>
+      <description>A drug designed by UK researchers to prevent tumour growth has shown promise on pancreatic and lung cancer. </description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8004980.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8004980.stm</guid>
+      <pubDate>Sat, 18 Apr 2009 23:03:38 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45676000/jpg/_45676017_pancreascancer.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Hope for child cancer treatment </title>
+      <description>Scientists believe they may have found a way to treat a type of childhood cancer of the nervous system.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7811161.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7811161.stm</guid>
+      <pubDate>Fri, 17 Apr 2009 23:01:12 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45345000/jpg/_45345797_cell.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Many unaware of alcohol calories</title>
+      <description>Many people are unaware that the calorie content of alcohol can undo the benefits of an otherwise healthy diet, a survey suggests.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8002991.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8002991.stm</guid>
+      <pubDate>Fri, 17 Apr 2009 04:47:13 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45373000/jpg/_45373446_wine66_pa.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Pregnancy exercise 'helps baby'</title>
+      <description>Exercise during pregnancy can be good for the developing baby as well as for the mother, research suggests.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8002560.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8002560.stm</guid>
+      <pubDate>Fri, 17 Apr 2009 09:56:58 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45672000/jpg/_45672263_pregex226.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Doctors 'must root out bad care'</title>
+      <description>NHS staff - and in particular doctors - must do more to tackle bad care, the head of the new health regulator says.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8002900.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8002900.stm</guid>
+      <pubDate>Thu, 16 Apr 2009 23:43:16 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/41585000/jpg/_41585580_mask_group66.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Millions for malaria drug scheme</title>
+      <description>The UK government is donating &#163;40m to a new global effort which aims to bring down the price of malaria drugs. </description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8004880.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8004880.stm</guid>
+      <pubDate>Fri, 17 Apr 2009 16:03:52 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45675000/jpg/_45675725_mossie.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Vitamin deficiency asthma 'link'</title>
+      <description>A low intake of vitamins A and C could raise the risk of asthma, a review of 40 studies since 1980 suggests.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8000821.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8000821.stm</guid>
+      <pubDate>Thu, 16 Apr 2009 00:27:56 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/44927000/jpg/_44927681_asthmaboy66.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Home births 'as safe as hospital'</title>
+      <description>A massive study of home births suggests that, in labours deemed low-risk, the risks to babies are no higher than if born in hospital with a midwife.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7998417.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7998417.stm</guid>
+      <pubDate>Wed, 15 Apr 2009 08:08:24 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45663000/jpg/_45663991_homebirth.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Stem cells 'can treat diabetes'</title>
+      <description>An experimental stem cell treatment has enabled diabetes patients to go for as long as four years without insulin injections.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7999760.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7999760.stm</guid>
+      <pubDate>Wed, 15 Apr 2009 09:45:52 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45666000/gif/_45666012_insulinspl.gif" width="66"/>
+    </item>
+    <item>
+      <title>Doctors issue health warning to women with excess hair</title>
+      <description>Women with excess hair growth probably have an underlying medical condition and need to be assessed, experts advise.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/8002579.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8002579.stm</guid>
+      <pubDate>Thu, 16 Apr 2009 23:22:53 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45671000/jpg/_45671925_hirsutism.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Competing voices</title>
+      <description>Tapes simulating schizophrenia offer lessons for medics</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7953410.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7953410.stm</guid>
+      <pubDate>Sat, 18 Apr 2009 23:03:09 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45604000/jpg/_45604957_janey66.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Monthly hell</title>
+      <description>'Periods pain and anger nearly cost me university place'</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7797607.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7797607.stm</guid>
+      <pubDate>Fri, 17 Apr 2009 23:02:12 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45323000/jpg/_45323465_michelle66.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Sound advice</title>
+      <description>Help with stresses and strains on vocal cords</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/uk_news/wales/8003415.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/wales/8003415.stm</guid>
+      <pubDate>Thu, 16 Apr 2009 21:12:26 GMT</pubDate>
+      <category>Wales</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45673000/jpg/_45673283_mouth66bbc.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Allergy reaction</title>
+      <description>Huge study hopes to find the cause of a new 'epidemic'</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7989873.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7989873.stm</guid>
+      <pubDate>Thu, 16 Apr 2009 01:15:43 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45650000/jpg/_45650864_house_66.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Medical notes </title>
+      <description>A comprehensive guide to clinical conditions</description>
+      <link>http://news.bbc.co.uk/go/rss/-/1/hi/health/medical_notes/default.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/medical_notes/default.stm</guid>
+      <pubDate>Mon, 16 Jun 2008 15:57:17 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>From BBC Health</title>
+      <description>Explaining the use of radiotherapy in cancer treatment </description>
+      <link>http://news.bbc.co.uk/go/rss/-/ http://www.bbc.co.uk/health/conditions/cancer/carecancer_radio.shtml</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk http://www.bbc.co.uk/health/conditions/cancer/carecancer_radio.shtml</guid>
+      <pubDate>Fri, 14 Nov 2008 11:07:48 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Homeopathy 'no cancer care harm'</title>
+      <description>Homeopathic medicines can ease cancer treatments' side-effects  without stopping them working, a review concludes.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7998884.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7998884.stm</guid>
+      <pubDate>Wed, 15 Apr 2009 00:45:09 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45664000/jpg/_45664446_calendulaspl.jpg" width="66"/>
+    </item>
+    <item>
+      <title>US to tackle resurgent bed bugs</title>
+      <description>The US government moves to tackle bed bugs, which have re-emerged as a major problem in many parts of the country.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/americas/7999260.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/americas/7999260.stm</guid>
+      <pubDate>Wed, 15 Apr 2009 00:31:30 GMT</pubDate>
+      <category>Americas</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45665000/jpg/_45665150_007171110-1.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Drug offers hope on Alzheimer's</title>
+      <description>A new drug which shows promise as a treatment for Alzheimer's disease has been developed by UK scientists.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7989814.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7989814.stm</guid>
+      <pubDate>Mon, 13 Apr 2009 23:35:34 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45646000/jpg/_45646082__44575954_alz_cell_cred226-1.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Alcohol flush 'shows cancer risk'</title>
+      <description>People who get a flushed face when they drink alcohol should be particularly wary of gullet cancer, warn experts. </description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7961943.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7961943.stm</guid>
+      <pubDate>Mon, 13 Apr 2009 23:55:56 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45597000/jpg/_45597945_007039376-1.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Scientists find 'pleasure nerves'</title>
+      <description>Scientists in the US and Sweden say they understand more about how the body responds to pleasurable touch.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7992299.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7992299.stm</guid>
+      <pubDate>Sun, 12 Apr 2009 23:02:26 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45650000/jpg/_45650674_motherbaby226.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Diabetes 'impact on brain power'</title>
+      <description>Failure to control type 2 diabetes may have a long-term impact on a person's memory and brain power, research suggests.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7937947.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7937947.stm</guid>
+      <pubDate>Sat, 11 Apr 2009 23:03:09 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45557000/jpg/_45557515__44939253_fingerprick226splcred-1.jpg" width="66"/>
+    </item>
+    <item>
+      <title>'Double whammy' malaria drug hope</title>
+      <description>A new "double whammy" malaria drug could work on its own and as a "booster" for existing drugs, research suggests.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7987459.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7987459.stm</guid>
+      <pubDate>Fri, 10 Apr 2009 23:01:35 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45643000/jpg/_45643544_001069345-1.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Scar-reducing drug hope</title>
+      <description>A drug designed to reduce scarring has shown promising results in early human trials, UK researchers say.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/7990588.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/7990588.stm</guid>
+      <pubDate>Fri, 10 Apr 2009 07:54:10 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/45653000/jpg/_45653305_scar.jpg" width="66"/>
+    </item>
+    <item>
+      <title>Heart disease and stroke</title>
+      <description></description>
+      <link>http://news.bbc.co.uk/go/rss/-/hi/english/static/in_depth/health/2000/heart_disease/default.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/hi/english/static/in_depth/health/2000/heart_disease/default.stm</guid>
+      <pubDate>Fri, 14 Feb 2003 12:26:09 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Cancer: The facts</title>
+      <description>The disease tends to affect older people - but can strike at any time.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/3444635.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/3444635.stm</guid>
+      <pubDate>Fri, 30 Jan 2004 11:57:24 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Pregnancy timeline</title>
+      <description>A week by week guide to pregnancy taking in how the baby develops, changes to the mother and key scan dates.</description>
+      <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/4121411.stm</link>
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/4121411.stm</guid>
+      <pubDate>Thu, 23 Dec 2004 13:42:57 GMT</pubDate>
+      <category>Health</category>
+      <media:thumbnail height="49" url="http://newsimg.bbc.co.uk/media/images/40659000/jpg/_40659505_5months_spl66.jpg" width="66"/>
+    </item>
+  </channel>
+</rss>

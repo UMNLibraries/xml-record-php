@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0" xmlns:pheedo="http://www.pheedo.com/namespace/pheedo">
+	<channel>
+		<title>NYT &gt; Health</title>
+		<link>http://www.nytimes.com/pages/health/index.html?partner=rss</link>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2010  The New York Times Company</copyright>
+		<lastBuildDate>Fri, 04 Jun 2010 06:34:36 GMT </lastBuildDate>
+		<image>
+			<title>NYT &gt; Health</title>
+			<url>http://graphics.nytimes.com/images/section/NytSectionHeader.gif</url>
+			<link>http://www.nytimes.com/pages/health/index.html?partner=rss</link>
+		</image>
+		<item>
+			<title>1,000 More Unread Heart Tests at Harlem Hospital</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=04967c8f6aa92b6b747700a69e56b691</link>
+			<pheedo:origLink>http://www.nytimes.com/2010/06/04/nyregion/04harlem.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2010/06/04/nyregion/04harlem.html</guid>
+			<description>New York hospital officials said the echocardiograms went back to 2005, not 2007, and totaled 1,000 more than previously thought.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=04967c8f6aa92b6b747700a69e56b691&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=04967c8f6aa92b6b747700a69e56b691&amp;p=1&quot;/&gt;&lt;/a&gt;
+&lt;img alt=&quot;&quot; height=&quot;0&quot; width=&quot;0&quot; border=&quot;0&quot; style=&quot;display:none&quot; src=&quot;http://a.triggit.com/px?u=pheedo&amp;rtv=Health&amp;rtv=p29518&amp;rtv=f18616&quot;/&gt;&lt;img alt=&quot;&quot; height=&quot;0&quot; width=&quot;0&quot; border=&quot;0&quot; style=&quot;display:none&quot; src=&quot;http://pixel.quantserve.com/pixel/p-8bUhLiluj0fAw.gif?labels=pub.29518.rss.Health.18616,cat.Health.rss&quot;/&gt;</description>
+			<dc:creator>By ANEMONA HARTOCOLLIS</dc:creator>
+			<pubDate>Fri, 04 Jun 2010 02:40:12 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Harlem Hospital Center</category>
+			<category domain="http://www.nytimes.com/namespaces/mdes">Heart</category>
+			<category domain="http://www.nytimes.com/namespaces/mdes">Tests and Testing</category>
+			<category domain="http://www.nytimes.com/namespaces/des">Medicine and Health</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Health and Hospitals Corp</category>
+			<category domain="http://www.nytimes.com/namespaces/des">Hospitals</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Harlem (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/des">Doctors</category>
+			<category domain="http://www.nytimes.com/namespaces/mdes">Deaths (Fatalities)</category>
+		</item>
+	</channel>
+</rss>

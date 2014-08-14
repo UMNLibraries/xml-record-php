@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NLMCatalogRecordSet PUBLIC "-//NLM//DTD CatalogRecord, 1st January 2009//EN" "http://www.nlm.nih.gov/databases/dtd/nlmcatalogrecord_090101.dtd">
+<NLMCatalogRecordSet>
+
+ <NLMCatalogRecord Owner="NLM" Status="Completed">
+    <NlmUniqueID>101566287</NlmUniqueID>
+    <DateCreated>
+        <Year>2011</Year>
+        <Month>01</Month>
+        <Day>21</Day>
+    </DateCreated>
+    <DateRevised>
+        <Year>2011</Year>
+        <Month>08</Month>
+        <Day>15</Day>
+    </DateRevised>
+    <DateAuthorized>
+        <Year>2011</Year>
+        <Month>08</Month>
+        <Day>15</Day>
+    </DateAuthorized>
+    <DateCompleted>
+        <Year>2011</Year>
+        <Month>08</Month>
+        <Day>15</Day>
+    </DateCompleted>
+    <TitleMain Sort="0">
+        <Title>Text, cases, and materials on medical law and ethics</Title>
+        <OtherInformation>/ Marc Stauch and Kay Wheat with John Tingle.</OtherInformation>
+    </TitleMain>
+    <TitleOther Sort="N" Owner="NLM" TitleType="Other">
+        <TitleAlternate>Medical law and ethics</TitleAlternate>
+    </TitleOther>
+    <AuthorList CompleteYN="Y">
+        <Author>
+            <LastName>Stauch</LastName>
+            <ForeName>Marc</ForeName>
+            <Initials>M</Initials>
+        </Author>
+        <Author>
+            <LastName>Stauch</LastName>
+            <ForeName>Marc</ForeName>
+            <Initials>M</Initials>
+            <TitleAssociatedWithName>Text, cases, and materials on medical law.</TitleAssociatedWithName>
+        </Author>
+        <Author>
+            <LastName>Wheat</LastName>
+            <ForeName>Kay</ForeName>
+            <Initials>K</Initials>
+        </Author>
+        <Author>
+            <LastName>Tingle</LastName>
+            <ForeName>John</ForeName>
+            <Initials>J</Initials>
+        </Author>
+    </AuthorList>
+    <ResourceInfo>
+        <TypeOfResource>Book</TypeOfResource>
+        <Issuance>monographic</Issuance>
+        <ResourceUnit>text</ResourceUnit>
+    </ResourceInfo>
+    <PublicationTypeList>
+        <PublicationType>Legal Cases</PublicationType>
+    </PublicationTypeList>
+    <PublicationInfo>
+        <Country>United States</Country>
+        <PlaceCode Authority="MARC">nyu</PlaceCode>
+        <Imprint ImprintType="Original">New York : Routledge, 2012.</Imprint>
+        <Place ImprintType="Original">New York :</Place>
+        <Publisher ImprintType="Original">Routledge,</Publisher>
+        <DateIssued ImprintType="Original">2012.</DateIssued>
+        <PublicationFirstYear>2012</PublicationFirstYear>
+        <Edition>4th ed.</Edition>
+    </PublicationInfo>
+    <Language>eng</Language>
+    <PhysicalDescription>
+        <Extent>xxxix, 632 p.</Extent>
+    </PhysicalDescription>
+    <ContentsNote>Introduction to ethics -- Healthcare in England and Wales -- Consentment to treatment -- Treating the incapable patient -- Confidentiality, privacy and access to medical records -- Medical malpractice -- Assisted reproduction and embryo research -- Abortion and pre-natal harm -- Mental health law -- Medical research -- Organ transplantation -- Euthanasia.</ContentsNote>
+    <GeneralNote Owner="NLM">Includes bibliographical references and index.</GeneralNote>
+    <MeshHeadingList>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Bioethical Issues</DescriptorName>
+            <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Ethics, Medical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N" Type="Geographic">Great Britain</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Jurisprudence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="Y">Legislation, Medical</DescriptorName>
+        </MeshHeading>
+    </MeshHeadingList>
+    <Classification NLMCallNumberYN="Y" Authority="NLM" CallNumberType="ShelvingNumber">2011 H-849</Classification>
+    <Classification NLMCallNumberYN="N" Authority="NLM" CallNumberType="NLMClass">W 32.5 FA1</Classification>
+    <LCCN ValidYN="Y">  2011002330</LCCN>
+    <LCCN ValidYN="N">  2011021681</LCCN>
+    <ISBN ValidYN="Y">9780415582315 (hbk.)</ISBN>
+    <ISBN ValidYN="Y">0415582318 (hbk.)</ISBN>
+    <ISBN ValidYN="Y">9780415582308 (pbk.)</ISBN>
+    <ISBN ValidYN="Y">041558230X (pbk.)</ISBN>
+</NLMCatalogRecord> 
+
+ <NLMCatalogRecord Owner="NLM" Status="Cataloging-In-Publication">
+    <NlmUniqueID>101565471</NlmUniqueID>
+    <DateCreated>
+        <Year>2011</Year>
+        <Month>07</Month>
+        <Day>26</Day>
+    </DateCreated>
+    <DateRevised>
+        <Year>2011</Year>
+        <Month>07</Month>
+        <Day>27</Day>
+    </DateRevised>
+    <DateAuthorized>
+        <Year>2011</Year>
+        <Month>07</Month>
+        <Day>27</Day>
+    </DateAuthorized>
+    <DateCompleted>
+        <Year>2011</Year>
+        <Month>07</Month>
+        <Day>27</Day>
+    </DateCompleted>
+    <TitleMain Sort="0">
+        <Title>Terrorism and public health : a balanced approach to strengthening systems and protecting people</Title>
+        <OtherInformation>/ edited by Barry S. Levy, Victor W. Sidel.</OtherInformation>
+    </TitleMain>
+    <AuthorList CompleteYN="Y">
+        <Author>
+            <LastName>Levy</LastName>
+            <ForeName>Barry S</ForeName>
+            <Initials>BS</Initials>
+        </Author>
+        <Author>
+            <LastName>Sidel</LastName>
+            <ForeName>Victor W</ForeName>
+            <Initials>VW</Initials>
+        </Author>
+    </AuthorList>
+    <ResourceInfo>
+        <TypeOfResource>Book</TypeOfResource>
+        <Issuance>monographic</Issuance>
+        <ResourceUnit>text</ResourceUnit>
+    </ResourceInfo>
+    <PublicationInfo>
+        <Country>United States</Country>
+        <PlaceCode Authority="MARC">nyu</PlaceCode>
+        <Imprint ImprintType="Original">New York, NY : Oxford University Press, c2012.</Imprint>
+        <Place ImprintType="Original">New York, NY :</Place>
+        <Publisher ImprintType="Original">Oxford University Press,</Publisher>
+        <DateIssued ImprintType="Original">c2012.</DateIssued>
+        <ProjectedPublicationDate>1110</ProjectedPublicationDate>
+        <PublicationFirstYear>2012</PublicationFirstYear>
+        <Edition>2nd ed.</Edition>
+    </PublicationInfo>
+    <Language>eng</Language>
+    <ContentsNote>Challenges that terrorism poses to public health / Barry S. Levy and Victor W. Sidel -- The Roots of Terrorism / Cheryl E. Easley and Carol Easley Allen -- The Public Health Response to the World Trade Center Attack and Its Aftermath by the New York City Department of Health and Mental Hygiene / Isaac B. Weisfuse, Trish Marsik, and Robert M. Brackbill -- Investigating the Health Consequences of the World Trade Center Attack / Helen H. Lee ... [et al.] -- The Anthrax Attack of 2001 / Philip S. Brachman -- A Global Perspective on Terrorism and Public Health / John Middleton, Patrick Saunders, and Shamil Harron -- The Mental Health Consequences of Terrorism / Zebulon Taintor -- Small Arms and Light Weapons / Wendy Cukier, Nelson Palacio, and Reefa Mahboob -- Nuclear and Radiologic Weapons / Patrice M. Sutton and Robert M. Gould -- Chemical Weapons / Ernest C. Lee, Philipp C. Bleek, and Stefanos N. Kales -- Biological Weapons / Victor W. Sidel and Barry S. Levy -- Public Health Preparedness in the Los Angeles County Department of Public Health / Jonathan E. Fielding and Alonzo L. Plough -- Predicting and Planning for Public Health Emergencies / Nathaniel Hupert -- Protecting Civil Liberties and Human Rights / H. Jack Geiger and George J. Annas -- Public Health Consequences of the Wars in Afghanistan and Iraq / Barry S. Levy and Victor W. Sidel -- Consequences of Torture / Leonard S. Rubenstein -- The Impact of Anti-terrorism Law and Policy on Civil Society Organizations in the United States / Mark Sidel -- Strengthening the Public Health System / C. William Keck and Marguerite A. Erme -- Protecting Emergency Response and Recovery Workers / Dori B. Reissman ... [et al.] -- Promoting Domestic and International Law / Peter Weiss.</ContentsNote>
+    <GeneralNote Owner="NLM">Includes bibliographical references and index.</GeneralNote>
+    <MeshHeadingList>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Civil Defense</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Disaster Planning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Emergency Medical Services</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="Y">Terrorism</DescriptorName>
+        </MeshHeading>
+    </MeshHeadingList>
+    <Classification NLMCallNumberYN="N" Authority="NLM" CallNumberType="NLMClass">WA 295</Classification>
+    <LCCN ValidYN="Y">  2011031623</LCCN>
+    <ISBN ValidYN="Y">9780199765546 (hardcover : alk. paper)</ISBN>
+</NLMCatalogRecord> 
+
+ <NLMCatalogRecord Owner="NLM" Status="Completed">
+    <NlmUniqueID>9422456</NlmUniqueID>
+    <DateCreated>
+        <Year>1998</Year>
+        <Month>10</Month>
+        <Day>16</Day>
+    </DateCreated>
+    <DateRevised>
+        <Year>2009</Year>
+        <Month>11</Month>
+        <Day>06</Day>
+    </DateRevised>
+    <DateAuthorized>
+        <Year>2006</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+    </DateAuthorized>
+    <DateCompleted>
+        <Year>2006</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+    </DateCompleted>
+    <DateRevisedMajor>
+        <Year>2009</Year>
+        <Month>11</Month>
+        <Day>06</Day>
+    </DateRevisedMajor>
+    <TitleMain Sort="0">
+        <Title>Boletin de la Dirección General de Sanidad Pública</Title>
+        <OtherInformation>/ República de Bolivia, Ministerio de Gobierno.</OtherInformation>
+    </TitleMain>
+    <AuthorList CompleteYN="Y">
+        <Author>
+            <CollectiveName>Bolivia. Dirección General de Sanidad Pública.</CollectiveName>
+        </Author>
+    </AuthorList>
+    <ResourceInfo>
+        <TypeOfResource>Serial</TypeOfResource>
+        <Issuance>continuing</Issuance>
+        <ResourceUnit>text</ResourceUnit>
+    </ResourceInfo>
+    <PublicationTypeList>
+        <PublicationType>Periodicals</PublicationType>
+    </PublicationTypeList>
+    <PublicationInfo>
+        <Country>Bolivia</Country>
+        <PlaceCode Authority="MARC">bo </PlaceCode>
+        <Imprint ImprintType="Original">La Paz : Oficina de la Dirección General, [1929]-</Imprint>
+        <Place ImprintType="Original">La Paz :</Place>
+        <Publisher ImprintType="Original">Oficina de la Dirección General,</Publisher>
+        <DateIssued ImprintType="Original">[1929]-</DateIssued>
+        <PublicationFirstYear>1929</PublicationFirstYear>
+        <PublicationEndYear>1935</PublicationEndYear>
+        <DatesOfSerialPublication>Año 1, no. 1 (agosto de 1929)-</DatesOfSerialPublication>
+        <DatesOfSerialPublication>Ceased in 1935.</DatesOfSerialPublication>
+        <Frequency FrequencyType="Current">Semiannual, 1930-</Frequency>
+        <Frequency FrequencyType="Former">Bimonthly, 1929</Frequency>
+    </PublicationInfo>
+    <Language>spa</Language>
+    <PhysicalDescription>
+        <Extent>v. : ill., ports.</Extent>
+    </PhysicalDescription>
+    <GeneralNote Owner="NLM">Latest issue consulted: Año 2, no. 5 (dic. de 1930).</GeneralNote>
+    <MeshHeadingList>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N" Type="Geographic">Bolivia</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="Y">Public Health</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+            <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+        </MeshHeading>
+    </MeshHeadingList>
+    <OtherSubjectList Owner="NLM">
+        <OtherSubject>
+            <OtherSubjectName MajorTopicYN="N" SubjectType="CorpName">Bolivia. Dirección General de Sanidad Pública.</OtherSubjectName>
+        </OtherSubject>
+    </OtherSubjectList>
+    <Classification NLMCallNumberYN="Y" Authority="NLM" CallNumberType="NLMClass">W2 DB6 Z2</Classification>
+    <LCCN ValidYN="Y">  2004243934</LCCN>
+    <ISSN ValidYN="Y" IssnType="Print">1017-9747</ISSN>
+    <ISSNLinking ValidYN="Y">1017-9747</ISSNLinking>
+    <OtherID Prefix="(OCoLC)" Source="OCLC">48647836</OtherID>
+    <OtherID Prefix="(DNLM)" Source="NLM">SR0079266(s)</OtherID>
+</NLMCatalogRecord>
+
+ <NLMCatalogRecord Owner="NLM" Status="Completed">
+    <NlmUniqueID>101236801</NlmUniqueID>
+    <DateCreated>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>20</Day>
+    </DateCreated>
+    <DateRevised>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>21</Day>
+    </DateRevised>
+    <DateAuthorized>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>20</Day>
+    </DateAuthorized>
+    <DateCompleted>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>20</Day>
+    </DateCompleted>
+    <DateRevisedMajor>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>21</Day>
+    </DateRevisedMajor>
+    <TitleMain Sort="0">
+        <Title>Quarantine regulations : established by His Imperial Japanese Majesty's government, 14 July, 1879 (revised 21 July, 1879).</Title>
+    </TitleMain>
+    <TitleOther Sort="0" Owner="NLM" TitleType="Uniform">
+        <TitleAlternate>Kaikō korerabyō densenbyō yobō kisoku.</TitleAlternate>
+        <OtherInformation>English</OtherInformation>
+    </TitleOther>
+    <TitleOther Sort="N" Owner="NLM" TitleType="Other">
+        <TitleAlternate>Translation</TitleAlternate>
+    </TitleOther>
+    <AuthorList CompleteYN="Y">
+        <Author>
+            <LastName>Sanjō</LastName>
+            <ForeName>Sanetomi</ForeName>
+            <Initials>S</Initials>
+            <DatesAssociatedWithName>1837-1892.</DatesAssociatedWithName>
+        </Author>
+        <Author>
+            <CollectiveName>Japan. Gaimushō.</CollectiveName>
+        </Author>
+    </AuthorList>
+    <ResourceInfo>
+        <TypeOfResource>Book</TypeOfResource>
+        <Issuance>monographic</Issuance>
+        <ResourceUnit>text</ResourceUnit>
+    </ResourceInfo>
+    <PublicationInfo>
+        <Country>Japan</Country>
+        <PlaceCode Authority="MARC">ja </PlaceCode>
+        <Imprint ImprintType="Original">[Tokyo] : Foreign Office, [not before 1879]</Imprint>
+        <Place ImprintType="Original">[Tokyo] :</Place>
+        <Publisher ImprintType="Original">Foreign Office,</Publisher>
+        <DateIssued ImprintType="Original">[not before 1879]</DateIssued>
+        <PublicationFirstYear>1879</PublicationFirstYear>
+    </PublicationInfo>
+    <Language>eng</Language>
+    <LanguageAlternate LangType="Original">jpn</LanguageAlternate>
+    <PhysicalDescription>
+        <Extent>8, [1] p. ; 25 cm.</Extent>
+    </PhysicalDescription>
+    <GeneralNote Owner="NLM">At head of title: Translation.</GeneralNote>
+    <GeneralNote Owner="NLM">Translation of: Kaikō korerabyō densenbyō yobō kisoku / promulgated by Dajōkan. July 14, 1879.</GeneralNote>
+    <GeneralNote Owner="NLM">"Sanjō Sanetomi, H. I. J. M.'s Prime Minister"--P. 8.</GeneralNote>
+    <GeneralNote Owner="NLM">Front cover came off.</GeneralNote>
+    <MeshHeadingList>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+            <DescriptorName MajorTopicYN="N">Quarantine</DescriptorName>
+            <QualifierName MajorTopicYN="Y">legislation &amp; jurisprudence</QualifierName>
+        </MeshHeading>
+    </MeshHeadingList>
+    <Classification NLMCallNumberYN="Y" Authority="NLM" CallNumberType="NLMClass">WA J353q 1879</Classification>
+    <OtherID Prefix="(OCoLC)" Source="OCLC">ocm57301229</OtherID>
+</NLMCatalogRecord>
+
+</NLMCatalogRecordSet>
