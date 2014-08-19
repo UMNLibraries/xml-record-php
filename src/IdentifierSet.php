@@ -1,26 +1,27 @@
 <?php
 
-class XML_Record_IdentifierSet
+namespace UmnLib\Core\XmlRecord;
+
+class IdentifierSet
 {
-    protected $ids = array();
+  protected $ids = array();
 
-    public function ids()
-    {
-        return $this->ids;
-    }
+  public function ids()
+  {
+    return $this->ids;
+  }
 
-    public function has_member( $id )
-    {
-        return in_array($id, $this->ids) ? true : false;
-    }
+  public function hasMember($id)
+  {
+    return in_array($id, $this->ids) ? true : false;
+  }
 
-    // TODO: Allow only scalars, strings???
-    public function add_member( $id )
-    {
-        if ($this->has_member( $id ))
-        {
-            throw new Exception("Attempt to add duplicate member '$id'.");
-        }
-        $this->ids[] = $id;
+  // TODO: Allow only scalars, strings???
+  public function addMember($id)
+  {
+    if ($this->hasMember($id)) {
+      throw new \InvalidArgumentException("Attempt to add duplicate member '$id'.");
     }
-} // end class XML_Record_IdentifierSet
+    $this->ids[] = $id;
+  }
+}

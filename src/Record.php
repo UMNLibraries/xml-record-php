@@ -87,7 +87,7 @@ abstract class Record
     // TODO: Add validation??
 
     if (!array_key_exists('file', $params)) {
-      throw new Exception("Missing required param 'file'");
+      throw new \InvalidArgumentException("Missing required param 'file'");
     }
     $this->setFile($params['file']);
 
@@ -95,10 +95,10 @@ abstract class Record
     // but will have to do for now.
     $domElement = $params['domElement'];
     if (!is_a($domElement, 'DOMElement')) {
-      throw new Exception('domElement constructor param must be of type DOMElement');
+      throw new \InvalidArgumentException('domElement constructor param must be of type DOMElement');
     }
 
-    $domDocument = new DOMDocument();
+    $domDocument = new \DOMDocument();
     $recurse = true;
     $this->domElement = $domDocument->importNode($domElement, $recurse);
     $domDocument->appendChild($this->domElement);
@@ -153,7 +153,7 @@ abstract class Record
       $string = $this->asDomDocument()->saveXML();
       $status = $u->unserialize($string);
       if (PEAR::isError($status)) {
-        throw new Exception($status->getMessage());
+        throw new \InvalidArgumentException($status->getMessage());
       }
       $this->array = $u->getUnserializedData();
        */

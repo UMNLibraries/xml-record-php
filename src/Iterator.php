@@ -106,13 +106,11 @@ class Iterator implements \Iterator
       // for the value of $this->current to be something other than
       // and XmlRecord!!!
 
-      if ($reader->name != $recordElementName ||
-        $reader->nodeType == \XMLReader::END_ELEMENT) {
+      if ($reader->name != $recordElementName || $reader->nodeType == \XMLReader::END_ELEMENT) {
           continue;
-        }
-      $namespaceUri = $reader->namespaceUri;
-      if (isset($recordElementNamespace) && 
-        $reader->namespaceUri != $recordElementNamespace) {
+      }
+
+      if (isset($recordElementNamespace) && $reader->namespaceURI != $recordElementNamespace) {
           continue;
         }
 
