@@ -11,7 +11,7 @@ class Wired extends \UmnLib\Core\XmlRecord\FeedItem
   {
     if (!isset($this->ids))
     {
-      $simplepieItem = $this->as_simplepieItem();
+      $simplepieItem = $this->asSimplepieItem();
       $this->ids = array(array(
         'type' => 'url',
         'value' => $simplepieItem->get_id(),

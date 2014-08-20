@@ -26,7 +26,7 @@ abstract class FeedItem extends Record
   {
     if (!isset($this->simplepieItem)) {
       // SimplePie can't take a string. Grrr...
-      // Have to hard-code the directory, since sys_get_temp_dir() is >= 5.2.1. Damn Red Hat!
+      // Have to hard-code the directory, since sys_get_temp_dir() is >= PHP 5.2.1. Damn Red Hat!
       $filename = tempnam('/tmp', 'simplepie');
       file_put_contents($filename, $this->asString());
 

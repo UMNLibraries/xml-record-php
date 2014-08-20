@@ -1,6 +1,12 @@
 #!/usr/bin/php -q
 <?php
 
+/**
+ * WARNING! This test class remains un-ported to PHPUnit
+ * because the class under test, XmlRecord\WorldCatDc,
+ * is broken. See the comments in that class for details.
+ */
+
 require_once 'simpletest/autorun.php';
 SimpleTest :: prefer(new TextReporter());
 set_include_path('../php' . PATH_SEPARATOR . get_include_path());

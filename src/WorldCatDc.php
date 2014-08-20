@@ -1,31 +1,38 @@
 <?php
 
-require_once 'XML/Record.php';
+namespace UmnLib\Core\XmlRecord;
 
-class XML_Record_WorldCat_DC extends XML_Record
+/* WARNING! This class is currently broken, and has been since
+ * discontinuing the use of the obsolote PEAR package XML_Serializer
+ * and using instead \Titon\Utility\Converter, which does not
+ * support namespaces. The array keys here are those produced
+ * by the old XML_Unserializer.
+ */
+
+class WorldCatDc extends Record
 {
   // Must be an id type that uniquely identifies the record, 
   // usually the record-creating organization's id.
-  public static function primary_id_type()
+  public static function primaryIdType()
   {
     return 'oclc';
   }
 
-  // Must return array( 'type' => $type, 'value' => $value ) pairs.
+  // Must return array('type' => $type, 'value' => $value) pairs.
   public function ids()
   {
-    if (!isset( $this->ids ))
+    if (!isset($this->ids))
     {
-      $array = $this->as_array();
+      $array = $this->asArray();
       // TODO: Add other ids!!!!
-      $record_ids = $array['recordData']['oclcdcs']['oclcterms:recordIdentifier'];
+      $recordIds = $array['recordData']['oclcdcs']['oclcterms:recordIdentifier'];
 
       // Normalize these so that they are always arrays of arrays:
-      if (!is_array($record_ids[0])) {
-        $record_ids = array( $record_ids );
+      if (!is_array($recordIds[0])) {
+        $recordIds = array($recordIds);
       }
 
-      //print_r( $record_ids );
+      //print_r($recordIds);
 /*
                     [oclcterms:recordIdentifier] => Array
                         (
@@ -39,7 +46,7 @@ class XML_Record_WorldCat_DC extends XML_Record
  */
 
       $ids = array();
-      foreach ($record_ids as $id) {
+      foreach ($recordIds as $id) {
         if (is_array($id)) {
           if ($id['xsi:type'] == 'http://purl.org/oclc/terms/lccn') {
             $ids[] = array(
@@ -47,7 +54,7 @@ class XML_Record_WorldCat_DC extends XML_Record
               'value' => $id['_content'],
             );
           } else {
-            throw new Exception("Unrecognized id type."); 
+            throw new \InvalidArgumentException("Unrecognized id type."); 
           }
         } else {
           $ids[] = array(
@@ -60,5 +67,4 @@ class XML_Record_WorldCat_DC extends XML_Record
     }
     return $this->ids;
   }
-
-} // end class XML_Record_WorldCat_DC
+}

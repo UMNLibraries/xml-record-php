@@ -2,61 +2,12 @@
 
 namespace UmnLib\Core\XmlRecord;
 
-// $Id$
-
 /**
- * @file
  * An abstract base class to represent an XML file containing one or more records.
- *
- * <h2>Synopsis</h2>
- *
- * @code
- *
- * // TODO: Adapt this for XML_Record_File!!!
- * require_once $path_to_xml_record_class;
- *
- * $record = new $xml_record_class(array(
- *     'dom_element' => $dom_element, // DOMElement object
- *     'file_name' => $file_name, // optional
- * ));
- *
- * // PHP associative array, including the xml attributes:
- * $array = $record->as_array();
- *
- * // DOM element representations:
- * $dom_element = $record->as_dom_element();
- * $simplexml_element = $record->as_simplexml_element();
- * $fragment_string = $record->as_fragment_string();
- *
- * // DOM document representations:
- * $dom_document = $record->as_dom_document();
- * $string = $record->as_string();
- *
- * // A record may contain many unique identifiers. XML_Record
- * // requires that one unique identifier type be designated primary.
- * $ids = $record->ids();
- * $primary_id = $record->primary_id();
- * $primary_id_type = $record->primary_id_type();
- *
- * $recordElementName = $record->recordElementName();
- *
- * // optional
- * $file_name = $record->file_name();
- *
- * @endcode
- *
- * <h1>Extending</h1>
  *
  * Since this is an abstract base classs, it must be extended and cannot
  * be instantiated directly. But extending requires implementing only one
- * simple functions:
- * @see recordElementName()
- *
- * @package XML_Record_File
- *
- * @author     David Naughton <nihiliad@gmail.com>
- * @copyright  2009 David Naughton <nihiliad@gmail.com>
- * @version    0.1.0
+ * simple function: recordElementName()
  */
 
 abstract class File
@@ -66,7 +17,8 @@ abstract class File
   {
     return $this->name;
   }
-  function setName( $name )
+
+  function setName($name)
   {
     $this->name = $name;
   }
@@ -115,7 +67,6 @@ abstract class File
     } else if (array_key_exists('name', $params)) {
       // TODO: Check that the file exists?
       $this->setName($params['name']);
-      //$this->setString( file_get_contents($this->name()) );
     } else {
       throw new \InvalidArgumentException("A param of either 'string' or 'name' is required");
     }

@@ -4,9 +4,6 @@ namespace UmnLib\Core\XmlRecord\WorldCatMarc;
 
 use UmnLib\Core\ArgValidator;
 
-// TODO: Do I really need this? Seems that just associative arrays will work...
-//require_once 'XML/Record/WorldCat/MARC/Datafield/Subfield.php';
-
 class Datafield
 {
   protected $tag;
@@ -20,11 +17,9 @@ class Datafield
   }
 
   // TODO: Better validation for indicators?
-
   protected $ind1;
   function setInd1($ind1)
   {
-    //ArgValidator::validate($ind1, array('is' => 'string'));
     ArgValidator::validate($ind1, array('is' => 'scalar'));
     $this->ind1 = $ind1;
   }
@@ -32,7 +27,6 @@ class Datafield
   protected $ind2;
   function setInd2($ind2)
   {
-    //ArgValidator::validate($ind2, array('is' => 'string'));
     ArgValidator::validate($ind2, array('is' => 'scalar'));
     $this->ind2 = $ind2;
   }
@@ -42,9 +36,7 @@ class Datafield
   {
     // TODO: Better validation???
     // Also: I don't think ArgValidator handles this syntax with arrays yet!
-    //ArgValidator::validate( $subfields, array('is' => 'array') );
-
-    //echo "subfields = "; var_dump( $subfields ); echo "\n";
+    //ArgValidator::validate($subfields, array('is' => 'array'));
     if (!array_key_exists(0, $subfields) || !is_array($subfields[0])) {
       $subfields = array($subfields);
     }
@@ -99,17 +91,8 @@ class Datafield
     return $this->$property;
   }
 
-  //public function __construct($args)
-  public function __construct(Array $datafield)
+  function __construct(Array $datafield)
   {
-    /*
-    $validatedArgs = ArgValidator::validate(
-      $args,
-      array('tag' => array('required' => true))
-    );
-     */
-
-    //echo "datafield = "; print_r($datafield);
     foreach ($datafield['attributes'] as $property => $value) {
       if ('tag' == $property) {
         // Tags should always be 3 digits, 0-padded. Titon removes
@@ -120,24 +103,8 @@ class Datafield
       $this->$mutator($value);
     }
 
-    // Change the 'subfield' arg to 'subfields', which is different than
-    // how it appears in the PHP array derived from the XML:
-    // TODO: Shouldn't datafields *always* have subfields? Seems like a spec violation otherwise.
-    /*
-    if (array_key_exists('subfield', $validatedArgs)) {
-      $validatedArgs['subfields'] = $validatedArgs['subfield'];
-      unset($validatedArgs['subfield']);
-    }
-     */
     if (is_array($datafield['value']) && array_key_exists('subfield', $datafield['value'])) {
       $this->setSubfields($datafield['value']['subfield']);
     }
-
-    /*
-    foreach ($validatedArgs as $property => $value) {
-      $mutator = 'set' . ucfirst($property);
-      $this->$mutator($value);
-    }
-     */
   }
 }

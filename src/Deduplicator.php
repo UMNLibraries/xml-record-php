@@ -25,11 +25,11 @@ class Deduplicator
     return $this->internalIdTypes;
   }
 
-  // TODO: Must either inherit from XML_Record, or implement
+  // TODO: Must either inherit from XmlRecord\Record, or implement
   // an identical interface.
   protected $xmlRecordClass;
 
-  // TODO: Must either inherit from XML_Record_File, or implement
+  // TODO: Must either inherit from XmlRecord\File, or implement
   // an identical interface.
   protected $xmlRecordFileClass;
 
@@ -88,21 +88,11 @@ class Deduplicator
       throw new \InvalidArgumentException("Missing required param 'xmlRecordClass'");
     }
     $this->xmlRecordClass = $params['xmlRecordClass'];
-        /* TODO: Shouldn't need this anymore...
-        $xmlRecordClass_filename = 
-            preg_replace('/_/', '/', $this->xmlRecordClass) . '.php';
-        require_once $xmlRecordClass_filename;
-         */
 
     if (!array_key_exists('xmlRecordFileClass', $params)) {
       throw new \InvalidArgumentException("Missing required param 'xmlRecordFileClass'");
     }
     $this->xmlRecordFileClass = $params['xmlRecordFileClass'];
-        /* TODO: Shouldn't need this anymore...
-        $xmlRecordFileClass_filename = 
-            preg_replace('/_/', '/', $this->xmlRecordFileClass) . '.php';
-        require_once $xmlRecordFileClass_filename;
-         */
 
     // TODO: Document that this array should have idType keys
     //  and IdentifierSet values. Validate!!
@@ -175,7 +165,6 @@ class Deduplicator
         $record = $iterator->current();
         $duplicateProperties = $this->getDuplicateProperties($record);
         if (count($duplicateProperties) > 0) {
-          //echo "duplicateProperties = "; var_dump($duplicateProperties);
           $this->skip($record, $duplicateProperties);
           $this->countDuplicates++;
         } else {
@@ -207,7 +196,7 @@ class Deduplicator
       $idType = $id['type'];
       $idValue = $id['value'];
 
-      // TODO: Create an interface for the id_sets!
+      // TODO: Create an interface for the idSets!
 
       $internalIdSets = $this->getInternalIdSets($idType);
       foreach ($internalIdSets as $internalIdSet) {

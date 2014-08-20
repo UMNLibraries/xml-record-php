@@ -2,12 +2,6 @@
 
 namespace UmnLib\Core\XmlRecord;
 
-/*
-require_once 'XML/Record.php';
-require_once 'XML/Record/WorldCat/MARC/Datafield.php';
-require_once 'ISBN/Factory.php';
- */
-
 class WorldCatMarc extends Record
 {
   protected $datafields = array();
@@ -82,7 +76,6 @@ class WorldCatMarc extends Record
         // Control fields are effectively just key-value pairs.
         // Kind of clunky that the '0' index has to be here, but it eliminates the need for
         // an extra 'generateControlfieldsTagMap' method.
-        //$this->controlfields[$tag] = $controlfieldsTagMap[$tag][0]['_content'];
         $this->controlfields[$tag] = $controlfieldsTagMap[$tag][0]['value'];
       }
       $outputControlfields[$tag] = $this->controlfields[$tag];
@@ -123,10 +116,6 @@ class WorldCatMarc extends Record
       if (!array_key_exists($tag, $map)) {
         $map[$tag] = array();
       }
-      // Why was I doing it this way? The shorter non-commented
-      // code below seems to work just as well.
-      //$tagMap =& $map[$tag];
-      //$tagMap[] = $field;
       $map[$tag][] = $field;
     }
     return $map;
@@ -145,7 +134,7 @@ class WorldCatMarc extends Record
     return 'oclc';
   }
 
-  // Must return array( 'type' => $type, 'value' => $value ) pairs.
+  // Must return array('type' => $type, 'value' => $value) pairs.
   public function ids()
   {
     if (!isset($this->ids))

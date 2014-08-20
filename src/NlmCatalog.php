@@ -29,7 +29,6 @@ class NlmCatalog extends Record
         if (!array_key_exists(0, $otherIds)) {
           $otherIds = array($otherIds);
         }
-        //echo "otherIds = "; print_r($otherIds);
         foreach ($otherIds as $otherId) {
           if ('OCLC' == $otherId['attributes']['Source']) {
             $oclcId = trim($otherId['value']);
@@ -39,8 +38,6 @@ class NlmCatalog extends Record
           }
         }
       }
-
-      //echo "ids = "; print_r($ids);
       $this->ids = $ids;
     }
     return $this->ids;

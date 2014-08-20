@@ -10,7 +10,7 @@ class Iterator implements \Iterator
     return $this->file;
   }
   // TODO: Should have an interface compatible with XmlRecordFile
-  public function setFile( $file )
+  public function setFile($file)
   {
     $this->file = $file;
   }
@@ -79,7 +79,7 @@ class Iterator implements \Iterator
     return $this->current;
   }
 
-  protected function setKey( $key )
+  protected function setKey($key)
   {
     $this->currentKey = $key;
   }
