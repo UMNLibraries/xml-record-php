@@ -20,19 +20,19 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.umn.edu:Libraries/argvalidator-php.git"
+      "url": "git@github.com:UMNLibraries/argvalidator-php.git"
     },
     {
       "type": "vcs",
-      "url": "git@github.umn.edu:Libraries/isbn-php.git"
+      "url": "git@github.com:UMNLibraries/isbn-php.git"
     },
     {
       "type": "vcs",
-      "url": "git@github.umn.edu:Libraries/set-php.git"
+      "url": "git@github.com:UMNLibraries/set-php.git"
     },
     {
       "type": "vcs",
-      "url": "git@github.umn.edu:Libraries/file-set-datesequence-php.git"
+      "url": "git@github.com:UMNLibraries/file-set-datesequence-php.git"
     }
 
   ],   
