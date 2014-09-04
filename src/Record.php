@@ -2,40 +2,6 @@
 
 namespace UmnLib\Core\XmlRecord;
 
-/**
- * An abstract base class to represent a single XML record among many.
- *
- * $record = new $xml_record_class(array(
- *     'domElement' => $domElement, // DOMElement object
- *     'file' => $file, // subclass of XML_Record_File
- * ));
- *
- * // PHP associative array, including the xml attributes:
- * $array = $record->asArray();
- *
- * // DOM element representations:
- * $domElement = $record->asDomElement();
- * $simpleXmlElement = $record->asSimpleXmlElement();
- * $fragmentString = $record->asFragmentString();
- *
- * // DOM document representations:
- * $domDocument = $record->asDomDocument();
- * $string = $record->asString();
- *
- * // A record may contain many unique identifiers. XML_Record
- * // requires that one unique identifier type be designated primary.
- * $ids = $record->ids();
- * $primaryId = $record->primaryId();
- * $primaryIdType = $record->primaryIdType();
- *
- * // Currently must be a subclass of XML_Record_File
- * $file = $record->file();
- *
- * Since this is an abstract base classs, it must be extended and cannot
- * be instantiated directly. But extending requires implementing only these 
- * simple functions: ids() and primaryIdType()
- */
-
 abstract class Record
 {
   protected $file;
